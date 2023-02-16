@@ -1,0 +1,2 @@
+# globalgames
+show games
