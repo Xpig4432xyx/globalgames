@@ -1,0 +1,76 @@
+
+zhaoji.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 250, 432
+  size: 114, 65
+  orig: 396, 347
+  offset: 141, 120
+  index: -1
+1
+  rotate: true
+  xy: 308, 337
+  size: 93, 24
+  orig: 93, 24
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 458, 391
+  size: 106, 39
+  orig: 106, 39
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 271
+  size: 246, 226
+  orig: 276, 226
+  offset: 30, 0
+  index: -1
+4
+  rotate: false
+  xy: 366, 364
+  size: 80, 69
+  orig: 111, 69
+  offset: 12, 0
+  index: -1
+4_1
+  rotate: true
+  xy: 250, 313
+  size: 32, 36
+  orig: 35, 38
+  offset: 2, 1
+  index: -1
+4_2
+  rotate: false
+  xy: 250, 347
+  size: 36, 35
+  orig: 42, 37
+  offset: 1, 1
+  index: -1
+5
+  rotate: true
+  xy: 250, 384
+  size: 46, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 448, 326
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 366, 435
+  size: 62, 90
+  orig: 64, 93
+  offset: 1, 1
+  index: -1

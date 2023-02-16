@@ -1,0 +1,76 @@
+
+zhangjiao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 334, 410
+  size: 114, 65
+  orig: 396, 347
+  offset: 141, 120
+  index: -1
+meimao
+  rotate: false
+  xy: 355, 366
+  size: 120, 42
+  orig: 120, 42
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 226, 330
+  size: 127, 67
+  orig: 127, 67
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 194
+  size: 222, 281
+  orig: 323, 346
+  offset: 9, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 2, 61
+  size: 131, 239
+  orig: 135, 269
+  offset: 3, 1
+  index: -1
+yanjing
+  rotate: true
+  xy: 288, 144
+  size: 124, 38
+  orig: 124, 38
+  offset: 0, 0
+  index: -1
+youpiaodai
+  rotate: false
+  xy: 226, 399
+  size: 106, 76
+  orig: 106, 82
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 226, 270
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+zuopiaodai
+  rotate: true
+  xy: 311, 281
+  size: 47, 77
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 226, 212
+  size: 60, 56
+  orig: 60, 59
+  offset: 0, 3
+  index: -1

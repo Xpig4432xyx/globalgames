@@ -1,0 +1,76 @@
+
+zhangfei.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 2, 103
+  size: 114, 65
+  orig: 396, 347
+  offset: 141, 120
+  index: -1
+bmeimao
+  rotate: false
+  xy: 69, 175
+  size: 115, 42
+  orig: 115, 42
+  offset: 0, 0
+  index: -1
+bshengti
+  rotate: true
+  xy: 2, 2
+  size: 99, 74
+  orig: 99, 82
+  offset: 0, 8
+  index: -1
+btou
+  rotate: false
+  xy: 2, 429
+  size: 179, 239
+  orig: 181, 239
+  offset: 2, 0
+  index: -1
+bwuqi
+  rotate: false
+  xy: 2, 219
+  size: 124, 208
+  orig: 126, 210
+  offset: 1, 1
+  index: -1
+byanjin
+  rotate: true
+  xy: 128, 321
+  size: 106, 39
+  orig: 106, 39
+  offset: 0, 0
+  index: -1
+byoujiao
+  rotate: true
+  xy: 163, 220
+  size: 30, 26
+  orig: 32, 26
+  offset: 1, 0
+  index: -1
+byoushoubi
+  rotate: false
+  xy: 69, 111
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+bzuojiao
+  rotate: false
+  xy: 128, 226
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+bzuoshoubi
+  rotate: true
+  xy: 128, 252
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1

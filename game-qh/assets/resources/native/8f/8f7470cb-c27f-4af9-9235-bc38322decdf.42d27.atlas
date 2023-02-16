@@ -1,0 +1,34 @@
+
+hb.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 107, 25
+  size: 101, 83
+  orig: 103, 85
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 104, 128
+  size: 95, 120
+  orig: 95, 120
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 118
+  size: 100, 130
+  orig: 102, 132
+  offset: 1, 1
+  index: -1

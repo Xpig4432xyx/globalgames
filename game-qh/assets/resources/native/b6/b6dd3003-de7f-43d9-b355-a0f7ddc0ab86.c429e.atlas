@@ -1,0 +1,69 @@
+
+xuchu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 110, 46
+  size: 114, 65
+  orig: 396, 347
+  offset: 141, 120
+  index: -1
+1
+  rotate: false
+  xy: 2, 297
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: true
+  xy: 2, 2
+  size: 109, 41
+  orig: 109, 41
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 45, 5
+  size: 106, 63
+  orig: 106, 63
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 122, 236
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 110, 3
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 177, 11
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 202, 14
+  size: 30, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 113
+  size: 118, 182
+  orig: 121, 184
+  offset: 2, 1
+  index: -1

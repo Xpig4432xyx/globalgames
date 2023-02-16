@@ -1,0 +1,20 @@
+
+dianchan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bk
+  rotate: false
+  xy: 2, 99
+  size: 126, 127
+  orig: 135, 135
+  offset: 4, 5
+  index: -1
+diaochan
+  rotate: true
+  xy: 2, 2
+  size: 95, 113
+  orig: 113, 115
+  offset: 12, 2
+  index: -1

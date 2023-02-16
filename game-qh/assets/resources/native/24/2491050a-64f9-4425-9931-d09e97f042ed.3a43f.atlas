@@ -1,0 +1,83 @@
+
+guanyu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 2, 26
+  size: 114, 65
+  orig: 396, 347
+  offset: 141, 120
+  index: -1
+1
+  rotate: false
+  xy: 2, 243
+  size: 184, 267
+  orig: 184, 267
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: true
+  xy: 130, 33
+  size: 107, 38
+  orig: 107, 38
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: false
+  xy: 69, 2
+  size: 94, 23
+  orig: 94, 23
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 170, 73
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 222, 16
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 69, 27
+  size: 113, 59
+  orig: 113, 59
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 197, 5
+  size: 29, 23
+  orig: 29, 24
+  offset: 0, 1
+  index: -1
+6
+  rotate: false
+  xy: 165, 4
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 170, 36
+  size: 42, 35
+  orig: 44, 37
+  offset: 1, 1
+  index: -1
+8
+  rotate: true
+  xy: 2, 142
+  size: 99, 244
+  orig: 101, 246
+  offset: 1, 1
+  index: -1

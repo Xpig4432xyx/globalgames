@@ -1,0 +1,20 @@
+
+hechenghongbaochai.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hechenghongbaochai
+  rotate: false
+  xy: 2, 21
+  size: 67, 79
+  orig: 67, 79
+  offset: 0, 0
+  index: -1
+hechenghongbaotouying
+  rotate: false
+  xy: 2, 2
+  size: 63, 17
+  orig: 64, 18
+  offset: 0, 0
+  index: -1

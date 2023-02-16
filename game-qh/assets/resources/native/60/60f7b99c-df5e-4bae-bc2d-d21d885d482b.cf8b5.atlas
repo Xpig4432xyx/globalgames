@@ -1,0 +1,97 @@
+
+simayi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 43, 379
+  size: 114, 65
+  orig: 396, 347
+  offset: 141, 120
+  index: -1
+biyan
+  rotate: true
+  xy: 2, 20
+  size: 157, 64
+  orig: 157, 64
+  offset: 0, 0
+  index: -1
+houmiantoufa
+  rotate: true
+  xy: 2, 568
+  size: 211, 153
+  orig: 211, 153
+  offset: 0, 0
+  index: -1
+jiandian
+  rotate: true
+  xy: 2, 370
+  size: 196, 39
+  orig: 196, 39
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 134, 50
+  size: 127, 31
+  orig: 127, 31
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 2, 781
+  size: 192, 241
+  orig: 192, 241
+  offset: 0, 0
+  index: -1
+shangzi
+  rotate: false
+  xy: 2, 179
+  size: 144, 189
+  orig: 146, 192
+  offset: 1, 2
+  index: -1
+shengti
+  rotate: true
+  xy: 43, 446
+  size: 120, 87
+  orig: 120, 87
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 68, 2
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 148, 299
+  size: 78, 58
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+zhengyan
+  rotate: true
+  xy: 68, 30
+  size: 147, 64
+  orig: 147, 64
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 90, 2
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 132, 482
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1

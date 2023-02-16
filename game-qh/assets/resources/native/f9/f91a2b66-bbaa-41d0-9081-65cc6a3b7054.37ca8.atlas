@@ -1,0 +1,328 @@
+
+jubaopen01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 727
+  size: 189, 92
+  orig: 191, 94
+  offset: 1, 1
+  index: -1
+10
+  rotate: false
+  xy: 645, 785
+  size: 240, 117
+  orig: 262, 134
+  offset: 10, 9
+  index: -1
+11
+  rotate: true
+  xy: 980, 919
+  size: 31, 38
+  orig: 33, 40
+  offset: 1, 1
+  index: -1
+12
+  rotate: true
+  xy: 980, 952
+  size: 32, 38
+  orig: 34, 40
+  offset: 1, 1
+  index: -1
+13
+  rotate: true
+  xy: 980, 886
+  size: 31, 38
+  orig: 33, 40
+  offset: 1, 1
+  index: -1
+14
+  rotate: false
+  xy: 884, 612
+  size: 119, 106
+  orig: 128, 118
+  offset: 4, 7
+  index: -1
+15
+  rotate: false
+  xy: 755, 540
+  size: 118, 109
+  orig: 137, 131
+  offset: 7, 9
+  index: -1
+16
+  rotate: true
+  xy: 938, 374
+  size: 75, 80
+  orig: 77, 82
+  offset: 1, 1
+  index: -1
+17
+  rotate: false
+  xy: 376, 755
+  size: 238, 84
+  orig: 283, 126
+  offset: 15, 12
+  index: -1
+18
+  rotate: true
+  xy: 980, 986
+  size: 36, 42
+  orig: 38, 44
+  offset: 1, 1
+  index: -1
+19
+  rotate: true
+  xy: 938, 320
+  size: 52, 54
+  orig: 55, 56
+  offset: 2, 1
+  index: -1
+20
+  rotate: true
+  xy: 826, 732
+  size: 51, 59
+  orig: 54, 61
+  offset: 2, 1
+  index: -1
+21
+  rotate: false
+  xy: 616, 723
+  size: 208, 60
+  orig: 210, 62
+  offset: 1, 1
+  index: -1
+22
+  rotate: false
+  xy: 376, 841
+  size: 267, 62
+  orig: 269, 64
+  offset: 1, 1
+  index: -1
+23
+  rotate: false
+  xy: 692, 904
+  size: 286, 118
+  orig: 298, 130
+  offset: 6, 6
+  index: -1
+3
+  rotate: false
+  xy: 2, 821
+  size: 372, 201
+  orig: 372, 201
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 376, 905
+  size: 314, 117
+  orig: 342, 142
+  offset: 13, 14
+  index: -1
+5
+  rotate: false
+  xy: 755, 651
+  size: 62, 70
+  orig: 65, 72
+  offset: 2, 1
+  index: -1
+6
+  rotate: false
+  xy: 826, 667
+  size: 56, 63
+  orig: 59, 65
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 938, 451
+  size: 80, 79
+  orig: 82, 81
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 875, 532
+  size: 114, 78
+  orig: 127, 89
+  offset: 8, 5
+  index: -1
+9
+  rotate: true
+  xy: 747, 454
+  size: 84, 99
+  orig: 86, 101
+  offset: 1, 1
+  index: -1
+jubaopen_00
+  rotate: false
+  xy: 560, 370
+  size: 184, 83
+  orig: 195, 95
+  offset: 3, 3
+  index: -1
+jubaopen_01
+  rotate: false
+  xy: 374, 315
+  size: 184, 83
+  orig: 195, 95
+  offset: 3, 3
+  index: -1
+jubaopen_02
+  rotate: false
+  xy: 188, 288
+  size: 184, 83
+  orig: 195, 95
+  offset: 3, 3
+  index: -1
+jubaopen_03
+  rotate: false
+  xy: 374, 400
+  size: 184, 85
+  orig: 195, 95
+  offset: 3, 3
+  index: -1
+jubaopen_04
+  rotate: false
+  xy: 561, 455
+  size: 184, 87
+  orig: 195, 95
+  offset: 3, 3
+  index: -1
+jubaopen_05
+  rotate: false
+  xy: 2, 280
+  size: 183, 88
+  orig: 195, 95
+  offset: 4, 3
+  index: -1
+jubaopen_06
+  rotate: true
+  xy: 848, 347
+  size: 183, 88
+  orig: 195, 95
+  offset: 4, 3
+  index: -1
+jubaopen_07
+  rotate: true
+  xy: 887, 720
+  size: 182, 89
+  orig: 195, 95
+  offset: 5, 3
+  index: -1
+jubaopen_08
+  rotate: false
+  xy: 190, 459
+  size: 182, 88
+  orig: 195, 95
+  offset: 5, 3
+  index: -1
+jubaopen_09
+  rotate: true
+  xy: 746, 270
+  size: 182, 88
+  orig: 195, 95
+  offset: 6, 3
+  index: -1
+jubaopen_10
+  rotate: false
+  xy: 374, 487
+  size: 185, 88
+  orig: 195, 95
+  offset: 6, 3
+  index: -1
+jubaopen_11
+  rotate: false
+  xy: 566, 633
+  size: 187, 88
+  orig: 195, 95
+  offset: 5, 3
+  index: -1
+jubaopen_12
+  rotate: false
+  xy: 2, 640
+  size: 188, 85
+  orig: 195, 95
+  offset: 5, 3
+  index: -1
+jubaopen_13
+  rotate: false
+  xy: 376, 667
+  size: 188, 86
+  orig: 195, 95
+  offset: 5, 3
+  index: -1
+jubaopen_14
+  rotate: false
+  xy: 563, 544
+  size: 187, 87
+  orig: 195, 95
+  offset: 6, 3
+  index: -1
+jubaopen_15
+  rotate: false
+  xy: 374, 577
+  size: 187, 88
+  orig: 195, 95
+  offset: 6, 3
+  index: -1
+jubaopen_16
+  rotate: false
+  xy: 2, 550
+  size: 186, 88
+  orig: 195, 95
+  offset: 7, 3
+  index: -1
+jubaopen_17
+  rotate: false
+  xy: 2, 460
+  size: 186, 88
+  orig: 195, 95
+  offset: 7, 3
+  index: -1
+jubaopen_18
+  rotate: false
+  xy: 2, 370
+  size: 184, 88
+  orig: 195, 95
+  offset: 8, 3
+  index: -1
+jubaopen_19
+  rotate: false
+  xy: 190, 549
+  size: 182, 89
+  orig: 195, 95
+  offset: 8, 3
+  index: -1
+jubaopen_20
+  rotate: false
+  xy: 193, 640
+  size: 179, 89
+  orig: 195, 95
+  offset: 8, 3
+  index: -1
+jubaopen_21
+  rotate: false
+  xy: 193, 731
+  size: 181, 88
+  orig: 195, 95
+  offset: 6, 3
+  index: -1
+jubaopen_22
+  rotate: false
+  xy: 560, 281
+  size: 183, 87
+  orig: 195, 95
+  offset: 4, 3
+  index: -1
+jubaopen_23
+  rotate: false
+  xy: 188, 373
+  size: 184, 84
+  orig: 195, 95
+  offset: 3, 3
+  index: -1

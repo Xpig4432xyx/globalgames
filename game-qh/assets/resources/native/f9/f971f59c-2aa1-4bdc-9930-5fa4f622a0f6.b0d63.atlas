@@ -1,0 +1,62 @@
+
+zhugeliang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 73, 38
+  size: 114, 65
+  orig: 396, 347
+  offset: 141, 120
+  index: -1
+bmeimao
+  rotate: false
+  xy: 96, 21
+  size: 77, 15
+  orig: 77, 15
+  offset: 0, 0
+  index: -1
+bshengti
+  rotate: true
+  xy: 2, 35
+  size: 117, 69
+  orig: 123, 69
+  offset: 6, 0
+  index: -1
+bwuqi
+  rotate: false
+  xy: 2, 154
+  size: 111, 121
+  orig: 113, 123
+  offset: 1, 1
+  index: -1
+byanjing
+  rotate: false
+  xy: 2, 2
+  size: 92, 31
+  orig: 92, 31
+  offset: 0, 0
+  index: -1
+byoushou
+  rotate: false
+  xy: 115, 199
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+bzuoshouqiu
+  rotate: false
+  xy: 140, 133
+  size: 62, 64
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 277
+  size: 214, 229
+  orig: 214, 229
+  offset: 0, 0
+  index: -1

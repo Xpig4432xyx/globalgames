@@ -1,0 +1,62 @@
+
+lisi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 99, 6
+  size: 114, 65
+  orig: 396, 347
+  offset: 141, 120
+  index: -1
+bshengti
+  rotate: true
+  xy: 2, 2
+  size: 118, 95
+  orig: 121, 97
+  offset: 1, 2
+  index: -1
+btou
+  rotate: false
+  xy: 2, 273
+  size: 199, 234
+  orig: 203, 235
+  offset: 4, 1
+  index: -1
+bwuqi
+  rotate: false
+  xy: 2, 122
+  size: 105, 149
+  orig: 108, 151
+  offset: 1, 1
+  index: -1
+byoushou
+  rotate: false
+  xy: 166, 47
+  size: 76, 77
+  orig: 83, 77
+  offset: 7, 0
+  index: -1
+bzuoshou
+  rotate: true
+  xy: 109, 164
+  size: 107, 91
+  orig: 107, 91
+  offset: 0, 0
+  index: -1
+mm
+  rotate: true
+  xy: 202, 185
+  size: 86, 20
+  orig: 86, 20
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 109, 126
+  size: 102, 36
+  orig: 102, 36
+  offset: 0, 0
+  index: -1

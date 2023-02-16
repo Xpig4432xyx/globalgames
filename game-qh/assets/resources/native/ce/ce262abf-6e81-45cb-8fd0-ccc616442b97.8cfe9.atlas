@@ -1,0 +1,83 @@
+
+liubei.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 260, 101
+  size: 114, 65
+  orig: 396, 347
+  offset: 141, 120
+  index: -1
+bshengti
+  rotate: false
+  xy: 260, 168
+  size: 130, 92
+  orig: 130, 92
+  offset: 0, 0
+  index: -1
+byoujiao
+  rotate: true
+  xy: 392, 220
+  size: 40, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+byoushou
+  rotate: false
+  xy: 421, 268
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+byouwuqi
+  rotate: true
+  xy: 2, 40
+  size: 147, 256
+  orig: 149, 259
+  offset: 1, 2
+  index: -1
+bzuojiao
+  rotate: false
+  xy: 141, 15
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+bzuowuqi
+  rotate: false
+  xy: 260, 262
+  size: 159, 241
+  orig: 161, 245
+  offset: 1, 2
+  index: -1
+bzuoyou
+  rotate: true
+  xy: 260, 18
+  size: 81, 94
+  orig: 81, 94
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 189
+  size: 256, 314
+  orig: 270, 314
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 421, 360
+  size: 143, 57
+  orig: 143, 57
+  offset: 0, 0
+  index: -1
+tou3
+  rotate: false
+  xy: 2, 2
+  size: 137, 36
+  orig: 137, 36
+  offset: 0, 0
+  index: -1

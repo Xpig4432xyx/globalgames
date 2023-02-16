@@ -1,0 +1,76 @@
+
+dianwei.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 178, 128
+  size: 114, 65
+  orig: 396, 347
+  offset: 141, 120
+  index: -1
+meimao
+  rotate: false
+  xy: 194, 19
+  size: 119, 50
+  orig: 119, 50
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 178, 71
+  size: 124, 55
+  orig: 156, 56
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 244
+  size: 224, 266
+  orig: 228, 266
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 2, 48
+  size: 194, 174
+  orig: 196, 176
+  offset: 1, 1
+  index: -1
+yanjin
+  rotate: false
+  xy: 2, 4
+  size: 113, 42
+  orig: 113, 42
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 228, 350
+  size: 32, 39
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 117, 2
+  size: 75, 44
+  orig: 75, 44
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 228, 391
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 228, 441
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1

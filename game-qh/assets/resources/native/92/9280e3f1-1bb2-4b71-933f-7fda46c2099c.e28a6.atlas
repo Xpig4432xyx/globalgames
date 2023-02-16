@@ -1,0 +1,83 @@
+
+xiahoudun.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 363, 303
+  size: 81, 100
+  orig: 396, 347
+  offset: 115, 115
+  index: -1
+biyan
+  rotate: false
+  xy: 360, 240
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: true
+  xy: 465, 217
+  size: 167, 33
+  orig: 167, 33
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 246, 313
+  size: 115, 71
+  orig: 115, 71
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 272
+  size: 242, 226
+  orig: 242, 226
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 246, 386
+  size: 112, 249
+  orig: 115, 251
+  offset: 2, 1
+  index: -1
+youjiao
+  rotate: true
+  xy: 407, 232
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 318, 240
+  size: 71, 40
+  orig: 71, 40
+  offset: 0, 0
+  index: -1
+zhengyan
+  rotate: false
+  xy: 360, 264
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 407, 266
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 246, 256
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1

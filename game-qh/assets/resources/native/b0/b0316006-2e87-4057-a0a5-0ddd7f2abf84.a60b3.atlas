@@ -1,0 +1,20 @@
+
+lihechai.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lihechai
+  rotate: false
+  xy: 2, 37
+  size: 113, 78
+  orig: 113, 78
+  offset: 0, 0
+  index: -1
+lihetouying01
+  rotate: false
+  xy: 2, 9
+  size: 95, 26
+  orig: 99, 29
+  offset: 1, 2
+  index: -1

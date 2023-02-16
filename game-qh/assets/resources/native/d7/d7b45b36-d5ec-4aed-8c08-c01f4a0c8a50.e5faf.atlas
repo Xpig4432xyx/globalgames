@@ -1,0 +1,62 @@
+
+sunquan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 114, 65
+  orig: 396, 347
+  offset: 141, 120
+  index: -1
+1
+  rotate: true
+  xy: 2, 69
+  size: 192, 95
+  orig: 192, 95
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 263
+  size: 228, 240
+  orig: 228, 240
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: true
+  xy: 200, 141
+  size: 120, 34
+  orig: 120, 34
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 200, 104
+  size: 35, 25
+  orig: 37, 27
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 118, 6
+  size: 62, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 157, 10
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 99, 70
+  size: 99, 191
+  orig: 101, 193
+  offset: 1, 1
+  index: -1
