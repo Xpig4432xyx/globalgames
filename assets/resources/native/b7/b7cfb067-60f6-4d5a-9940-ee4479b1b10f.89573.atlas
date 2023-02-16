@@ -1,0 +1,125 @@
+
+shenbingzhanshi.png
+size: 1692,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+(1)
+  rotate: false
+  xy: 637, 2
+  size: 95, 131
+  orig: 115, 230
+  offset: 8, 99
+  index: -1
+(11)
+  rotate: false
+  xy: 928, 3
+  size: 95, 130
+  orig: 115, 230
+  offset: 3, 100
+  index: -1
+(13)
+  rotate: false
+  xy: 336, 2
+  size: 100, 131
+  orig: 115, 230
+  offset: 3, 99
+  index: -1
+(15)
+  rotate: false
+  xy: 438, 3
+  size: 99, 130
+  orig: 115, 230
+  offset: 2, 100
+  index: -1
+(17)
+  rotate: false
+  xy: 2, 9
+  size: 113, 124
+  orig: 115, 230
+  offset: 0, 101
+  index: -1
+(19)
+  rotate: false
+  xy: 228, 9
+  size: 106, 124
+  orig: 115, 230
+  offset: 0, 102
+  index: -1
+(21)
+  rotate: false
+  xy: 117, 9
+  size: 109, 124
+  orig: 115, 230
+  offset: 0, 102
+  index: -1
+(23)
+  rotate: false
+  xy: 1215, 13
+  size: 99, 120
+  orig: 115, 230
+  offset: 0, 101
+  index: -1
+(25)
+  rotate: false
+  xy: 1412, 12
+  size: 96, 121
+  orig: 115, 230
+  offset: 0, 100
+  index: -1
+(27)
+  rotate: false
+  xy: 1316, 9
+  size: 94, 124
+  orig: 115, 230
+  offset: 6, 99
+  index: -1
+(29)
+  rotate: false
+  xy: 539, 2
+  size: 96, 131
+  orig: 115, 230
+  offset: 6, 99
+  index: -1
+(3)
+  rotate: false
+  xy: 831, 3
+  size: 95, 130
+  orig: 115, 230
+  offset: 6, 100
+  index: -1
+(31)
+  rotate: false
+  xy: 1025, 2
+  size: 94, 131
+  orig: 115, 230
+  offset: 9, 99
+  index: -1
+(32)
+  rotate: false
+  xy: 734, 2
+  size: 95, 131
+  orig: 115, 230
+  offset: 8, 99
+  index: -1
+(5)
+  rotate: false
+  xy: 1121, 2
+  size: 92, 131
+  orig: 115, 230
+  offset: 6, 99
+  index: -1
+(7)
+  rotate: false
+  xy: 1601, 3
+  size: 87, 130
+  orig: 115, 230
+  offset: 5, 100
+  index: -1
+(9)
+  rotate: false
+  xy: 1510, 3
+  size: 89, 130
+  orig: 115, 230
+  offset: 4, 100
+  index: -1

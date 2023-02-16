@@ -1,0 +1,27 @@
+
+shuijing.png
+size: 132,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 25
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+guangxian
+  rotate: false
+  xy: 81, 52
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+shuijing
+  rotate: false
+  xy: 81, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

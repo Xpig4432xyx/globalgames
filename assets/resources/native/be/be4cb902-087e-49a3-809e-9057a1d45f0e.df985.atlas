@@ -1,0 +1,27 @@
+
+goumaiwuqi.png
+size: 60,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian
+  rotate: false
+  xy: 24, 13
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 24, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+guangxian
+  rotate: true
+  xy: 2, 2
+  size: 73, 20
+  orig: 81, 22
+  offset: 4, 1
+  index: -1

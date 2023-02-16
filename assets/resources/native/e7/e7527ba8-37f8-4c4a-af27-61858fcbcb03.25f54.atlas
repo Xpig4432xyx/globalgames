@@ -1,0 +1,41 @@
+
+manghe_xingyun.png
+size: 352,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 254, 135
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 159, 2
+  size: 188, 36
+  orig: 188, 36
+  offset: 0, 0
+  index: -1
+huang
+  rotate: false
+  xy: 159, 135
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+manghe_xingyun
+  rotate: false
+  xy: 2, 26
+  size: 155, 249
+  orig: 155, 249
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 159, 40
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1

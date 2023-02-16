@@ -1,0 +1,20 @@
+
+xiyou_saoguang.png
+size: 80,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: true
+  xy: 53, 2
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+xiyou
+  rotate: false
+  xy: 2, 11
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+baozha_dimian.png
+size: 960,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 562, 2
+  size: 118, 69
+  orig: 222, 183
+  offset: 50, 2
+  index: -1
+10
+  rotate: false
+  xy: 419, 132
+  size: 188, 178
+  orig: 222, 183
+  offset: 9, 1
+  index: -1
+11
+  rotate: false
+  xy: 194, 20
+  size: 194, 110
+  orig: 222, 183
+  offset: 3, 73
+  index: -1
+12
+  rotate: false
+  xy: 2, 6
+  size: 190, 127
+  orig: 222, 183
+  offset: 0, 47
+  index: -1
+2
+  rotate: false
+  xy: 773, 49
+  size: 113, 71
+  orig: 222, 183
+  offset: 49, 0
+  index: -1
+4
+  rotate: false
+  xy: 633, 29
+  size: 138, 105
+  orig: 222, 183
+  offset: 32, 11
+  index: -1
+5
+  rotate: false
+  xy: 390, 5
+  size: 170, 125
+  orig: 222, 183
+  offset: 27, 7
+  index: -1
+6
+  rotate: true
+  xy: 789, 122
+  size: 188, 153
+  orig: 222, 183
+  offset: 21, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 135
+  size: 222, 175
+  orig: 222, 183
+  offset: 0, 7
+  index: -1
+8
+  rotate: false
+  xy: 226, 132
+  size: 191, 178
+  orig: 222, 183
+  offset: 4, 2
+  index: -1
+9
+  rotate: false
+  xy: 609, 136
+  size: 178, 174
+  orig: 222, 183
+  offset: 16, 3
+  index: -1
+fanwei
+  rotate: false
+  xy: 888, 2
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+fanwei1
+  rotate: false
+  xy: 888, 53
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1

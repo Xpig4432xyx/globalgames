@@ -1,0 +1,48 @@
+
+shengji.png
+size: 332,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f1
+  rotate: false
+  xy: 214, 2
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 214, 40
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 111, 15
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+f4
+  rotate: false
+  xy: 2, 9
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 251, 9
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+shengji
+  rotate: true
+  xy: 298, 59
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1

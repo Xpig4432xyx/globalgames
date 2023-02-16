@@ -1,0 +1,104 @@
+
+bingbuff.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: false
+  xy: 2, 74
+  size: 104, 52
+  orig: 104, 52
+  offset: 0, 0
+  index: -1
+bingsui0003
+  rotate: false
+  xy: 441, 70
+  size: 69, 56
+  orig: 89, 87
+  offset: 1, 12
+  index: -1
+bingsui0005
+  rotate: false
+  xy: 280, 64
+  size: 80, 62
+  orig: 89, 87
+  offset: 0, 22
+  index: -1
+bingsui0007
+  rotate: false
+  xy: 195, 69
+  size: 83, 57
+  orig: 89, 87
+  offset: 0, 30
+  index: -1
+bingsui0009
+  rotate: false
+  xy: 362, 16
+  size: 85, 49
+  orig: 89, 87
+  offset: 0, 38
+  index: -1
+bingsui0011
+  rotate: false
+  xy: 108, 71
+  size: 85, 55
+  orig: 89, 87
+  offset: 1, 32
+  index: -1
+bingsui0013
+  rotate: false
+  xy: 362, 67
+  size: 77, 59
+  orig: 89, 87
+  offset: 6, 26
+  index: -1
+bingsui0015
+  rotate: false
+  xy: 81, 5
+  size: 73, 64
+  orig: 89, 87
+  offset: 10, 12
+  index: -1
+bingsui0017
+  rotate: true
+  xy: 156, 2
+  size: 60, 45
+  orig: 89, 87
+  offset: 16, 21
+  index: -1
+bingsui0019
+  rotate: false
+  xy: 449, 37
+  size: 44, 31
+  orig: 89, 87
+  offset: 27, 28
+  index: -1
+bingsui0021
+  rotate: true
+  xy: 449, 17
+  size: 18, 20
+  orig: 89, 87
+  offset: 55, 28
+  index: -1
+bingsui0023
+  rotate: true
+  xy: 495, 57
+  size: 11, 15
+  orig: 89, 87
+  offset: 61, 18
+  index: -1
+bingwu
+  rotate: true
+  xy: 2, 6
+  size: 66, 77
+  orig: 71, 80
+  offset: 1, 2
+  index: -1
+suipian1
+  rotate: false
+  xy: 203, 30
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1

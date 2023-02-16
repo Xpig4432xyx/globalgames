@@ -1,0 +1,69 @@
+
+bosslaixi.png
+size: 824,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss
+  rotate: false
+  xy: 2, 61
+  size: 322, 48
+  orig: 352, 85
+  offset: 14, 23
+  index: -1
+circle
+  rotate: false
+  xy: 761, 51
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+eff_line_gr
+  rotate: false
+  xy: 557, 29
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+grow_boss
+  rotate: true
+  xy: 632, 6
+  size: 103, 56
+  orig: 104, 58
+  offset: 0, 1
+  index: -1
+grow_warning
+  rotate: false
+  xy: 442, 2
+  size: 113, 107
+  orig: 113, 107
+  offset: 0, 0
+  index: -1
+grow_warning2
+  rotate: true
+  xy: 326, 30
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+line_red
+  rotate: false
+  xy: 2, 19
+  size: 259, 40
+  orig: 259, 40
+  offset: 0, 0
+  index: -1
+line_yellow_B
+  rotate: false
+  xy: 2, 4
+  size: 438, 13
+  orig: 522, 13
+  offset: 51, 0
+  index: -1
+warning
+  rotate: true
+  xy: 690, 35
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1

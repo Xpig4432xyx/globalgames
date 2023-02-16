@@ -1,0 +1,90 @@
+
+wushuang.png
+size: 352,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 247, 249
+  size: 80, 99
+  orig: 83, 128
+  offset: 2, 2
+  index: -1
+02
+  rotate: true
+  xy: 124, 168
+  size: 80, 94
+  orig: 83, 128
+  offset: 2, 10
+  index: -1
+03
+  rotate: true
+  xy: 132, 3
+  size: 82, 105
+  orig: 83, 128
+  offset: 1, 2
+  index: -1
+04
+  rotate: true
+  xy: 239, 2
+  size: 82, 93
+  orig: 83, 128
+  offset: 1, 17
+  index: -1
+05
+  rotate: true
+  xy: 2, 88
+  size: 80, 109
+  orig: 83, 128
+  offset: 0, 4
+  index: -1
+06
+  rotate: true
+  xy: 240, 86
+  size: 80, 109
+  orig: 83, 128
+  offset: 0, 7
+  index: -1
+07
+  rotate: true
+  xy: 126, 250
+  size: 79, 119
+  orig: 83, 128
+  offset: 1, 0
+  index: -1
+08
+  rotate: true
+  xy: 2, 170
+  size: 79, 120
+  orig: 83, 128
+  offset: 1, 0
+  index: -1
+09
+  rotate: true
+  xy: 2, 251
+  size: 78, 122
+  orig: 83, 128
+  offset: 2, 0
+  index: -1
+10
+  rotate: true
+  xy: 220, 168
+  size: 79, 123
+  orig: 83, 128
+  offset: 1, 2
+  index: -1
+11
+  rotate: true
+  xy: 113, 87
+  size: 79, 125
+  orig: 83, 128
+  offset: 1, 2
+  index: -1
+12
+  rotate: true
+  xy: 2, 5
+  size: 80, 128
+  orig: 83, 128
+  offset: 1, 0
+  index: -1

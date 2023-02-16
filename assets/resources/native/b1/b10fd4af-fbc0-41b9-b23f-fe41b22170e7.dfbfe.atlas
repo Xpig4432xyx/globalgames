@@ -1,0 +1,104 @@
+
+jiangshibaozha.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiangshibaozha0001
+  rotate: false
+  xy: 894, 4
+  size: 50, 52
+  orig: 97, 96
+  offset: 6, 14
+  index: -1
+jiangshibaozha0002
+  rotate: false
+  xy: 838, 2
+  size: 54, 54
+  orig: 97, 96
+  offset: 5, 14
+  index: -1
+jiangshibaozha0003
+  rotate: true
+  xy: 838, 58
+  size: 67, 66
+  orig: 97, 96
+  offset: 5, 14
+  index: -1
+jiangshibaozha0004
+  rotate: true
+  xy: 596, 37
+  size: 88, 83
+  orig: 97, 96
+  offset: 2, 13
+  index: -1
+jiangshibaozha0005
+  rotate: true
+  xy: 512, 35
+  size: 90, 82
+  orig: 97, 96
+  offset: 3, 14
+  index: -1
+jiangshibaozha0007
+  rotate: true
+  xy: 342, 31
+  size: 94, 83
+  orig: 97, 96
+  offset: 3, 13
+  index: -1
+jiangshibaozha0009
+  rotate: true
+  xy: 172, 30
+  size: 95, 83
+  orig: 97, 96
+  offset: 2, 13
+  index: -1
+jiangshibaozha0011
+  rotate: true
+  xy: 427, 34
+  size: 91, 83
+  orig: 97, 96
+  offset: 2, 13
+  index: -1
+jiangshibaozha0013
+  rotate: true
+  xy: 2, 29
+  size: 96, 83
+  orig: 97, 96
+  offset: 1, 13
+  index: -1
+jiangshibaozha0015
+  rotate: true
+  xy: 87, 29
+  size: 96, 83
+  orig: 97, 96
+  offset: 1, 13
+  index: -1
+jiangshibaozha0017
+  rotate: true
+  xy: 257, 30
+  size: 95, 83
+  orig: 97, 96
+  offset: 2, 13
+  index: -1
+jiangshibaozha0019
+  rotate: true
+  xy: 681, 35
+  size: 90, 79
+  orig: 97, 96
+  offset: 5, 17
+  index: -1
+jiangshibaozha0021
+  rotate: true
+  xy: 762, 41
+  size: 84, 74
+  orig: 97, 96
+  offset: 9, 21
+  index: -1
+jiangshibaozha0023
+  rotate: true
+  xy: 906, 73
+  size: 52, 48
+  orig: 97, 96
+  offset: 34, 29
+  index: -1

@@ -1,0 +1,76 @@
+
+shouji_3.png
+size: 588,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spark5_00
+  rotate: false
+  xy: 125, 83
+  size: 40, 40
+  orig: 210, 210
+  offset: 86, 85
+  index: -1
+spark5_01
+  rotate: false
+  xy: 2, 2
+  size: 121, 121
+  orig: 210, 210
+  offset: 44, 44
+  index: -1
+spark5_02
+  rotate: false
+  xy: 403, 159
+  size: 173, 172
+  orig: 210, 210
+  offset: 21, 21
+  index: -1
+spark5_03
+  rotate: false
+  xy: 207, 143
+  size: 194, 190
+  orig: 210, 210
+  offset: 13, 14
+  index: -1
+spark5_04
+  rotate: false
+  xy: 2, 125
+  size: 202, 205
+  orig: 210, 210
+  offset: 8, 5
+  index: -1
+spark5_05
+  rotate: false
+  xy: 412, 333
+  size: 174, 206
+  orig: 210, 210
+  offset: 7, 4
+  index: -1
+spark5_06
+  rotate: false
+  xy: 2, 332
+  size: 203, 207
+  orig: 210, 210
+  offset: 7, 3
+  index: -1
+spark5_07
+  rotate: false
+  xy: 207, 335
+  size: 203, 204
+  orig: 210, 210
+  offset: 7, 4
+  index: -1
+spark5_08
+  rotate: false
+  xy: 403, 13
+  size: 147, 144
+  orig: 210, 210
+  offset: 33, 34
+  index: -1
+spark5_09
+  rotate: false
+  xy: 206, 5
+  size: 138, 136
+  orig: 210, 210
+  offset: 38, 38
+  index: -1

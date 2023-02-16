@@ -1,0 +1,13 @@
+
+manghe.png
+size: 84,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+manghe_xingyun
+  rotate: false
+  xy: 2, 2
+  size: 78, 111
+  orig: 78, 111
+  offset: 0, 0
+  index: -1

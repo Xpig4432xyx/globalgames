@@ -1,0 +1,111 @@
+
+anniu_guangyun.png
+size: 860,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Image 1
+  rotate: true
+  xy: 2, 298
+  size: 294, 110
+  orig: 300, 128
+  offset: 3, 9
+  index: -1
+Image 10
+  rotate: false
+  xy: 337, 372
+  size: 293, 109
+  orig: 300, 128
+  offset: 4, 10
+  index: -1
+Image 11
+  rotate: false
+  xy: 337, 261
+  size: 293, 109
+  orig: 300, 128
+  offset: 4, 10
+  index: -1
+Image 12
+  rotate: true
+  xy: 226, 298
+  size: 294, 109
+  orig: 300, 128
+  offset: 3, 10
+  index: -1
+Image 13
+  rotate: true
+  xy: 226, 2
+  size: 294, 109
+  orig: 300, 128
+  offset: 3, 10
+  index: -1
+Image 14
+  rotate: false
+  xy: 337, 483
+  size: 294, 109
+  orig: 300, 128
+  offset: 3, 10
+  index: -1
+Image 15
+  rotate: true
+  xy: 114, 2
+  size: 294, 110
+  orig: 300, 128
+  offset: 3, 9
+  index: -1
+Image 2
+  rotate: true
+  xy: 2, 2
+  size: 294, 110
+  orig: 300, 128
+  offset: 3, 9
+  index: -1
+Image 3
+  rotate: true
+  xy: 114, 298
+  size: 294, 110
+  orig: 300, 128
+  offset: 3, 9
+  index: -1
+Image 4
+  rotate: false
+  xy: 337, 37
+  size: 278, 110
+  orig: 300, 128
+  offset: 11, 9
+  index: -1
+Image 5
+  rotate: false
+  xy: 337, 149
+  size: 288, 110
+  orig: 300, 128
+  offset: 6, 9
+  index: -1
+Image 6
+  rotate: true
+  xy: 632, 8
+  size: 289, 110
+  orig: 300, 128
+  offset: 6, 9
+  index: -1
+Image 7
+  rotate: true
+  xy: 745, 301
+  size: 291, 110
+  orig: 300, 128
+  offset: 5, 9
+  index: -1
+Image 8
+  rotate: true
+  xy: 745, 8
+  size: 291, 110
+  orig: 300, 128
+  offset: 5, 9
+  index: -1
+Image 9
+  rotate: true
+  xy: 633, 299
+  size: 293, 110
+  orig: 300, 128
+  offset: 4, 9
+  index: -1

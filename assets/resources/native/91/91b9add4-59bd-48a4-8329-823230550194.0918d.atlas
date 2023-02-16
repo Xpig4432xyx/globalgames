@@ -1,0 +1,104 @@
+
+zhuoshao.png
+size: 280,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 226, 37
+  size: 33, 52
+  orig: 35, 59
+  offset: 2, 2
+  index: -1
+11
+  rotate: true
+  xy: 229, 72
+  size: 33, 49
+  orig: 35, 59
+  offset: 2, 2
+  index: -1
+12
+  rotate: true
+  xy: 2, 9
+  size: 35, 50
+  orig: 35, 59
+  offset: 0, 1
+  index: -1
+13
+  rotate: true
+  xy: 54, 11
+  size: 35, 51
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 107, 2
+  size: 35, 51
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 226, 3
+  size: 32, 48
+  orig: 35, 59
+  offset: 2, 0
+  index: -1
+2
+  rotate: false
+  xy: 73, 49
+  size: 34, 56
+  orig: 35, 59
+  offset: 1, 2
+  index: -1
+3
+  rotate: false
+  xy: 37, 48
+  size: 34, 57
+  orig: 35, 59
+  offset: 1, 2
+  index: -1
+4
+  rotate: true
+  xy: 109, 39
+  size: 31, 57
+  orig: 35, 59
+  offset: 2, 2
+  index: -1
+5
+  rotate: true
+  xy: 168, 75
+  size: 30, 59
+  orig: 35, 59
+  offset: 2, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 46
+  size: 33, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 109, 72
+  size: 33, 57
+  orig: 35, 59
+  offset: 0, 1
+  index: -1
+8
+  rotate: true
+  xy: 168, 40
+  size: 33, 56
+  orig: 35, 59
+  offset: 0, 2
+  index: -1
+9
+  rotate: true
+  xy: 168, 7
+  size: 31, 56
+  orig: 35, 59
+  offset: 2, 2
+  index: -1

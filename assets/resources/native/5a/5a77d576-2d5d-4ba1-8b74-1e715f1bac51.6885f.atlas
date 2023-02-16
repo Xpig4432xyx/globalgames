@@ -1,0 +1,20 @@
+
+keshengji.png
+size: 160,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian
+  rotate: false
+  xy: 2, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 2, 51
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1

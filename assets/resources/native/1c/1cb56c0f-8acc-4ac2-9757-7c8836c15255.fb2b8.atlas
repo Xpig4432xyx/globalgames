@@ -1,0 +1,223 @@
+
+boss_5.png
+size: 472,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Turbine_Fire_Fx_1
+  rotate: false
+  xy: 429, 197
+  size: 41, 76
+  orig: 41, 83
+  offset: 0, 5
+  index: -1
+Turbine_Fire_Fx_2
+  rotate: false
+  xy: 71, 2
+  size: 38, 76
+  orig: 41, 83
+  offset: 3, 4
+  index: -1
+Turbine_Fire_Fx_3
+  rotate: false
+  xy: 165, 3
+  size: 35, 76
+  orig: 41, 83
+  offset: 4, 4
+  index: -1
+Turbine_Fire_Fx_4
+  rotate: false
+  xy: 202, 7
+  size: 32, 72
+  orig: 41, 83
+  offset: 5, 4
+  index: -1
+Turbine_Fire_Fx_5
+  rotate: false
+  xy: 433, 394
+  size: 36, 76
+  orig: 41, 83
+  offset: 4, 2
+  index: -1
+Turbine_Fire_Fx_6
+  rotate: false
+  xy: 281, 54
+  size: 40, 78
+  orig: 41, 83
+  offset: 1, 2
+  index: -1
+glow
+  rotate: false
+  xy: 281, 3
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+jianfeng_1
+  rotate: false
+  xy: 440, 322
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+jianfeng_2
+  rotate: false
+  xy: 335, 73
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+jianfeng_3
+  rotate: false
+  xy: 349, 154
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 236, 36
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 283, 278
+  size: 71, 86
+  orig: 156, 128
+  offset: 0, 21
+  index: -1
+p2
+  rotate: false
+  xy: 182, 366
+  size: 142, 104
+  orig: 156, 128
+  offset: 14, 11
+  index: -1
+p3
+  rotate: false
+  xy: 326, 367
+  size: 105, 103
+  orig: 156, 128
+  offset: 21, 0
+  index: -1
+p4
+  rotate: false
+  xy: 72, 191
+  size: 107, 103
+  orig: 156, 128
+  offset: 26, 24
+  index: -1
+p5
+  rotate: false
+  xy: 181, 198
+  size: 98, 81
+  orig: 156, 128
+  offset: 25, 26
+  index: -1
+p6
+  rotate: false
+  xy: 2, 2
+  size: 67, 76
+  orig: 156, 128
+  offset: 38, 32
+  index: -1
+p7
+  rotate: false
+  xy: 280, 134
+  size: 66, 56
+  orig: 156, 128
+  offset: 42, 54
+  index: -1
+pao_1
+  rotate: false
+  xy: 72, 89
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+pao_2
+  rotate: false
+  xy: 281, 192
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+penqi
+  rotate: true
+  xy: 2, 80
+  size: 214, 68
+  orig: 214, 68
+  offset: 0, 0
+  index: -1
+penqi_1
+  rotate: false
+  xy: 111, 3
+  size: 52, 84
+  orig: 52, 84
+  offset: 0, 0
+  index: -1
+shenti_1
+  rotate: false
+  xy: 2, 296
+  size: 178, 174
+  orig: 178, 174
+  offset: 0, 0
+  index: -1
+shenti_2
+  rotate: true
+  xy: 175, 81
+  size: 108, 52
+  orig: 108, 52
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 323, 59
+  size: 73, 10
+  orig: 73, 10
+  offset: 0, 0
+  index: -1
+yanjian
+  rotate: true
+  xy: 440, 275
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 403, 148
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+youshou_1
+  rotate: false
+  xy: 349, 196
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: -1
+youshou_2
+  rotate: true
+  xy: 356, 275
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+zuoshou_1
+  rotate: false
+  xy: 229, 116
+  size: 49, 80
+  orig: 49, 80
+  offset: 0, 0
+  index: -1
+zuoshou_2
+  rotate: false
+  xy: 182, 281
+  size: 99, 83
+  orig: 99, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+gongxihuode.png
+size: 328,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_pubLight
+  rotate: false
+  xy: 256, 25
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+light1
+  rotate: true
+  xy: 2, 2
+  size: 6, 66
+  orig: 6, 66
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 143, 2
+  size: 111, 91
+  orig: 111, 91
+  offset: 0, 0
+  index: -1
+light3
+  rotate: false
+  xy: 2, 10
+  size: 139, 118
+  orig: 139, 118
+  offset: 0, 0
+  index: -1
+linelight
+  rotate: false
+  xy: 2, 309
+  size: 196, 200
+  orig: 196, 200
+  offset: 0, 0
+  index: -1
+pointlight
+  rotate: true
+  xy: 200, 347
+  size: 162, 124
+  orig: 162, 124
+  offset: 0, 0
+  index: -1
+roundray
+  rotate: false
+  xy: 2, 130
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+tc_bipai_
+  rotate: false
+  xy: 256, 69
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+wenzi/xqcg
+  rotate: true
+  xy: 181, 95
+  size: 212, 61
+  orig: 212, 61
+  offset: 0, 0
+  index: -1
+wenzi/zhuanyichenggong
+  rotate: true
+  xy: 244, 133
+  size: 212, 61
+  orig: 212, 61
+  offset: 0, 0
+  index: -1

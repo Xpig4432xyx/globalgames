@@ -1,0 +1,20 @@
+
+xishouyinbi.png
+size: 112,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 91, 70
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 2, 2
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1

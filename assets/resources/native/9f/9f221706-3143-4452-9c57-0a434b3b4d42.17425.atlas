@@ -1,0 +1,167 @@
+
+xingyunlaixi.png
+size: 896,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-1
+  rotate: false
+  xy: 593, 37
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+2-2
+  rotate: false
+  xy: 369, 72
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+2-3
+  rotate: false
+  xy: 816, 63
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+2-4
+  rotate: false
+  xy: 345, 57
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+2-5
+  rotate: true
+  xy: 752, 12
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+2-6
+  rotate: false
+  xy: 846, 68
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+2-7
+  rotate: false
+  xy: 816, 37
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+2-8
+  rotate: false
+  xy: 387, 9
+  size: 15, 7
+  orig: 15, 7
+  offset: 0, 0
+  index: -1
+2-9
+  rotate: false
+  xy: 424, 170
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+eff_pubLight
+  rotate: false
+  xy: 845, 226
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+juexingchenggong
+  rotate: false
+  xy: 639, 215
+  size: 204, 53
+  orig: 204, 53
+  offset: 0, 0
+  index: -1
+laba
+  rotate: true
+  xy: 780, 93
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+light1
+  rotate: true
+  xy: 345, 96
+  size: 6, 66
+  orig: 6, 66
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 639, 2
+  size: 111, 91
+  orig: 111, 91
+  offset: 0, 0
+  index: -1
+light3
+  rotate: false
+  xy: 639, 95
+  size: 139, 118
+  orig: 139, 118
+  offset: 0, 0
+  index: -1
+linelight
+  rotate: true
+  xy: 437, 72
+  size: 196, 200
+  orig: 196, 200
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 2, 183
+  size: 433, 85
+  orig: 433, 85
+  offset: 0, 0
+  index: -1
+pointlight
+  rotate: false
+  xy: 181, 57
+  size: 162, 124
+  orig: 162, 124
+  offset: 0, 0
+  index: -1
+roundray
+  rotate: false
+  xy: 2, 4
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+shengxingchenggong
+  rotate: false
+  xy: 181, 3
+  size: 204, 52
+  orig: 204, 52
+  offset: 0, 0
+  index: -1
+tc_bipai_
+  rotate: false
+  xy: 752, 29
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+xingdian
+  rotate: false
+  xy: 345, 104
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+xingyunlaixi
+  rotate: false
+  xy: 387, 18
+  size: 204, 52
+  orig: 204, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+jiasu.png
+size: 464,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 9
+  size: 157, 239
+  orig: 157, 239
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 413, 29
+  size: 26, 26
+  orig: 57, 56
+  offset: 16, 16
+  index: -1
+f2
+  rotate: true
+  xy: 364, 7
+  size: 48, 47
+  orig: 57, 56
+  offset: 5, 5
+  index: -1
+f3
+  rotate: false
+  xy: 309, 2
+  size: 53, 53
+  orig: 57, 56
+  offset: 1, 1
+  index: -1
+f4
+  rotate: true
+  xy: 401, 57
+  size: 55, 54
+  orig: 57, 56
+  offset: 1, 1
+  index: -1
+shuzi_1
+  rotate: false
+  xy: 310, 113
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+shuzi_2
+  rotate: false
+  xy: 387, 114
+  size: 75, 52
+  orig: 75, 53
+  offset: 0, 1
+  index: -1
+tubiao_1
+  rotate: false
+  xy: 243, 99
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+tubiao_2
+  rotate: false
+  xy: 243, 31
+  size: 64, 66
+  orig: 65, 67
+  offset: 1, 0
+  index: -1
+wenzi_1
+  rotate: false
+  xy: 310, 85
+  size: 89, 26
+  orig: 89, 26
+  offset: 0, 0
+  index: -1
+wenzi_2
+  rotate: false
+  xy: 309, 57
+  size: 89, 26
+  orig: 89, 26
+  offset: 0, 0
+  index: -1

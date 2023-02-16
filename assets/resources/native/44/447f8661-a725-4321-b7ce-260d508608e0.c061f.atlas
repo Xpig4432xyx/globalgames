@@ -1,0 +1,111 @@
+
+zhongdu.png
+size: 348,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhongdubuff0001
+  rotate: false
+  xy: 307, 15
+  size: 37, 40
+  orig: 68, 67
+  offset: 11, 17
+  index: -1
+zhongdubuff0003
+  rotate: false
+  xy: 181, 11
+  size: 39, 42
+  orig: 68, 67
+  offset: 11, 16
+  index: -1
+zhongdubuff0005
+  rotate: false
+  xy: 222, 13
+  size: 42, 41
+  orig: 68, 67
+  offset: 10, 18
+  index: -1
+zhongdubuff0007
+  rotate: false
+  xy: 92, 7
+  size: 43, 43
+  orig: 68, 67
+  offset: 10, 16
+  index: -1
+zhongdubuff0009
+  rotate: false
+  xy: 2, 50
+  size: 45, 45
+  orig: 68, 67
+  offset: 9, 15
+  index: -1
+zhongdubuff0011
+  rotate: false
+  xy: 97, 53
+  size: 45, 42
+  orig: 68, 67
+  offset: 9, 14
+  index: -1
+zhongdubuff0013
+  rotate: true
+  xy: 2, 2
+  size: 46, 43
+  orig: 68, 67
+  offset: 9, 13
+  index: -1
+zhongdubuff0015
+  rotate: false
+  xy: 49, 52
+  size: 46, 43
+  orig: 68, 67
+  offset: 9, 12
+  index: -1
+zhongdubuff0017
+  rotate: false
+  xy: 242, 56
+  size: 46, 39
+  orig: 68, 67
+  offset: 9, 12
+  index: -1
+zhongdubuff0019
+  rotate: false
+  xy: 144, 55
+  size: 47, 40
+  orig: 68, 67
+  offset: 9, 11
+  index: -1
+zhongdubuff0021
+  rotate: true
+  xy: 266, 12
+  size: 42, 39
+  orig: 68, 67
+  offset: 9, 11
+  index: -1
+zhongdubuff0023
+  rotate: true
+  xy: 137, 8
+  size: 43, 42
+  orig: 68, 67
+  offset: 9, 10
+  index: -1
+zhongdubuff0025
+  rotate: false
+  xy: 47, 4
+  size: 43, 44
+  orig: 68, 67
+  offset: 9, 10
+  index: -1
+zhongdubuff0027
+  rotate: true
+  xy: 290, 57
+  size: 38, 46
+  orig: 68, 67
+  offset: 14, 10
+  index: -1
+zhongdubuff0029
+  rotate: true
+  xy: 193, 56
+  size: 39, 47
+  orig: 68, 67
+  offset: 12, 10
+  index: -1

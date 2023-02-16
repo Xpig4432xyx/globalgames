@@ -1,0 +1,41 @@
+
+jiangshishouji.png
+size: 656,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spark2_00
+  rotate: true
+  xy: 608, 15
+  size: 75, 46
+  orig: 245, 245
+  offset: 13, 98
+  index: -1
+spark2_01
+  rotate: false
+  xy: 371, 19
+  size: 176, 71
+  orig: 245, 245
+  offset: 42, 86
+  index: -1
+spark2_02
+  rotate: false
+  xy: 187, 7
+  size: 182, 83
+  orig: 245, 245
+  offset: 48, 80
+  index: -1
+spark2_03
+  rotate: false
+  xy: 2, 3
+  size: 183, 87
+  orig: 245, 245
+  offset: 51, 78
+  index: -1
+spark2_04
+  rotate: false
+  xy: 549, 2
+  size: 57, 88
+  orig: 245, 245
+  offset: 174, 78
+  index: -1

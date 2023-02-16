@@ -1,0 +1,118 @@
+
+manghejindu.png
+size: 152,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhaikuang_ls[1]_000
+  rotate: true
+  xy: 2, 160
+  size: 22, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_001
+  rotate: true
+  xy: 64, 158
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_002
+  rotate: true
+  xy: 2, 134
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_003
+  rotate: true
+  xy: 64, 132
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_004
+  rotate: false
+  xy: 126, 122
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_005
+  rotate: true
+  xy: 2, 108
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_006
+  rotate: true
+  xy: 64, 106
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_007
+  rotate: true
+  xy: 2, 82
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_008
+  rotate: true
+  xy: 64, 80
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_009
+  rotate: false
+  xy: 126, 60
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_010
+  rotate: true
+  xy: 2, 56
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_011
+  rotate: true
+  xy: 64, 54
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_012
+  rotate: true
+  xy: 2, 30
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_013
+  rotate: true
+  xy: 64, 28
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_014
+  rotate: true
+  xy: 2, 4
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1
+zhaikuang_ls[1]_015
+  rotate: true
+  xy: 64, 2
+  size: 24, 60
+  orig: 32, 64
+  offset: 4, 2
+  index: -1

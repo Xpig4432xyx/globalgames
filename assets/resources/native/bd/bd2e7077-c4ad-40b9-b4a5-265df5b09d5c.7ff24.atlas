@@ -1,0 +1,27 @@
+
+zhandoushibai.png
+size: 228,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: true
+  xy: 2, 2
+  size: 308, 156
+  orig: 308, 156
+  offset: 0, 0
+  index: -1
+shibai
+  rotate: true
+  xy: 160, 189
+  size: 121, 63
+  orig: 121, 63
+  offset: 0, 0
+  index: -1
+zhandou
+  rotate: true
+  xy: 160, 66
+  size: 121, 62
+  orig: 121, 62
+  offset: 0, 0
+  index: -1

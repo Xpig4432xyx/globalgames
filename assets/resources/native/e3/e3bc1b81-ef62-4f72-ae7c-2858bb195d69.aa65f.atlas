@@ -1,0 +1,62 @@
+
+hudun.png
+size: 844,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_shield
+  rotate: false
+  xy: 804, 91
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+grid_01
+  rotate: false
+  xy: 132, 19
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+grid_02
+  rotate: false
+  xy: 244, 19
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+grid_03
+  rotate: false
+  xy: 356, 19
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+grid_04
+  rotate: false
+  xy: 468, 19
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+grid_05
+  rotate: false
+  xy: 580, 19
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+grid_06
+  rotate: false
+  xy: 692, 19
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1

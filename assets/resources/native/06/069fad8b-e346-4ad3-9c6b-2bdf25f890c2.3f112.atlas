@@ -1,0 +1,55 @@
+
+beijngguang.png
+size: 464,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 344, 74
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+Light_2
+  rotate: false
+  xy: 2, 241
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+Light_2_2
+  rotate: false
+  xy: 2, 19
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+Light_2_3
+  rotate: false
+  xy: 224, 241
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+Light_3
+  rotate: false
+  xy: 224, 121
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1
+Light_3_2
+  rotate: false
+  xy: 343, 121
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1
+Light_3_3
+  rotate: true
+  xy: 224, 2
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1

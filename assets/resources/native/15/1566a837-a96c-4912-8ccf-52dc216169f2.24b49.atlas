@@ -1,0 +1,27 @@
+
+shoujidaoguang.png
+size: 172,28
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang_1
+  rotate: false
+  xy: 113, 6
+  size: 57, 7
+  orig: 57, 7
+  offset: 0, 0
+  index: -1
+daoguang_2
+  rotate: false
+  xy: 2, 15
+  size: 125, 11
+  orig: 125, 11
+  offset: 0, 0
+  index: -1
+daoguang_3
+  rotate: false
+  xy: 2, 2
+  size: 109, 11
+  orig: 109, 11
+  offset: 0, 0
+  index: -1

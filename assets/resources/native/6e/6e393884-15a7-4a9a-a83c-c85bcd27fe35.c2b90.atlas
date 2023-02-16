@@ -1,0 +1,34 @@
+
+boss_4_zidan.png
+size: 176,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet_Weapon_0.3.1_06
+  rotate: false
+  xy: 2, 2
+  size: 158, 68
+  orig: 240, 240
+  offset: 46, 92
+  index: -1
+bullet_Weapon_0.3.1_07
+  rotate: false
+  xy: 2, 72
+  size: 160, 67
+  orig: 240, 240
+  offset: 48, 91
+  index: -1
+bullet_Weapon_0.3.1_09
+  rotate: false
+  xy: 2, 214
+  size: 170, 71
+  orig: 240, 240
+  offset: 48, 90
+  index: -1
+bullet_Weapon_0.3.1_11
+  rotate: false
+  xy: 2, 141
+  size: 170, 71
+  orig: 240, 240
+  offset: 48, 89
+  index: -1

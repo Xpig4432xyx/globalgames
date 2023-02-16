@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","battle"],collisionMatrix:[[true],[false,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/views/PreloadScene.fire",orientation:"",jsList:["assets/Plugins/pako.beac8.js"],bundleVers:{internal:"279e0",resources:"99091",main:"b44b9"}};

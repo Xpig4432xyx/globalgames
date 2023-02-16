@@ -1,0 +1,181 @@
+
+guojia.png
+size: 360,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 263, 209
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+Booster
+  rotate: false
+  xy: 87, 2
+  size: 70, 73
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+Control_Room
+  rotate: false
+  xy: 2, 231
+  size: 110, 127
+  orig: 110, 133
+  offset: 0, 0
+  index: -1
+Foot
+  rotate: false
+  xy: 263, 102
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+Gunner_Booster1
+  rotate: false
+  xy: 293, 72
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Gunner_Booster2
+  rotate: true
+  xy: 206, 21
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+Gunner_Booster3
+  rotate: false
+  xy: 320, 158
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+Right_Arm
+  rotate: false
+  xy: 114, 228
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+Right_Shoulder
+  rotate: true
+  xy: 169, 78
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Right_Upper_Leg
+  rotate: false
+  xy: 257, 65
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+Shoulder
+  rotate: false
+  xy: 2, 2
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 170, 140
+  size: 86, 32
+  orig: 86, 32
+  offset: 0, 0
+  index: -1
+f0
+  rotate: false
+  xy: 206, 64
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 204, 114
+  size: 57, 70
+  orig: 125, 102
+  offset: 0, 16
+  index: -1
+p2
+  rotate: true
+  xy: 2, 115
+  size: 114, 84
+  orig: 125, 102
+  offset: 11, 8
+  index: -1
+p3
+  rotate: false
+  xy: 204, 275
+  size: 85, 83
+  orig: 125, 102
+  offset: 16, 0
+  index: -1
+p4
+  rotate: true
+  xy: 2, 26
+  size: 87, 83
+  orig: 125, 102
+  offset: 20, 19
+  index: -1
+p5
+  rotate: false
+  xy: 88, 77
+  size: 79, 66
+  orig: 125, 102
+  offset: 20, 20
+  index: -1
+p6
+  rotate: false
+  xy: 263, 145
+  size: 55, 62
+  orig: 125, 102
+  offset: 30, 25
+  index: -1
+p7
+  rotate: true
+  xy: 159, 21
+  size: 54, 45
+  orig: 125, 102
+  offset: 33, 43
+  index: -1
+x1
+  rotate: true
+  xy: 169, 106
+  size: 32, 33
+  orig: 91, 87
+  offset: 29, 27
+  index: -1
+x2
+  rotate: false
+  xy: 114, 271
+  size: 88, 87
+  orig: 91, 87
+  offset: 1, 0
+  index: -1
+x3
+  rotate: false
+  xy: 88, 145
+  size: 80, 81
+  orig: 91, 87
+  offset: 5, 3
+  index: -1
+x4
+  rotate: true
+  xy: 204, 186
+  size: 87, 57
+  orig: 91, 87
+  offset: 4, 14
+  index: -1
+x5
+  rotate: true
+  xy: 291, 270
+  size: 88, 67
+  orig: 91, 87
+  offset: 2, 14
+  index: -1

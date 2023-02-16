@@ -1,0 +1,20 @@
+
+shengjishibai.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heitiao
+  rotate: false
+  xy: 2, 2
+  size: 144, 17
+  orig: 144, 17
+  offset: 0, 0
+  index: -1
+sjsb
+  rotate: false
+  xy: 2, 21
+  size: 303, 62
+  orig: 303, 62
+  offset: 0, 0
+  index: -1

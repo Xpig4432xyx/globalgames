@@ -1,0 +1,20 @@
+
+pifutexiao.png
+size: 84,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingdian
+  rotate: false
+  xy: 2, 59
+  size: 77, 38
+  orig: 77, 77
+  offset: 0, 19
+  index: -1
+xingdian1
+  rotate: true
+  xy: 2, 2
+  size: 55, 70
+  orig: 55, 87
+  offset: 0, 0
+  index: -1

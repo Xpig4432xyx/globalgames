@@ -1,0 +1,27 @@
+
+jueseshengji.png
+size: 596,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_1
+  rotate: false
+  xy: 466, 27
+  size: 127, 36
+  orig: 127, 36
+  offset: 0, 0
+  index: -1
+guang_2
+  rotate: true
+  xy: 2, 2
+  size: 61, 329
+  orig: 61, 329
+  offset: 0, 0
+  index: -1
+guang_3
+  rotate: true
+  xy: 333, 24
+  size: 39, 131
+  orig: 39, 131
+  offset: 0, 0
+  index: -1

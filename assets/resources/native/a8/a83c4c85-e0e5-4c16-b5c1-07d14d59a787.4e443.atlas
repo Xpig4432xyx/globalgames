@@ -1,0 +1,398 @@
+
+zhangliao.png
+size: 604,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Uhlan_atk2_liuqi_0001
+  rotate: false
+  xy: 2, 176
+  size: 315, 64
+  orig: 329, 74
+  offset: 14, 1
+  index: -1
+Uhlan_atk2_liuqi_0002
+  rotate: false
+  xy: 2, 242
+  size: 317, 64
+  orig: 329, 74
+  offset: 12, 6
+  index: -1
+Uhlan_atk2_liuqi_0003
+  rotate: false
+  xy: 2, 308
+  size: 328, 70
+  orig: 329, 74
+  offset: 1, 0
+  index: -1
+Uhlan_atk2_liuqi_0004
+  rotate: false
+  xy: 2, 528
+  size: 329, 74
+  orig: 329, 74
+  offset: 0, 0
+  index: -1
+Uhlan_atk2_liuqi_0005
+  rotate: false
+  xy: 2, 100
+  size: 293, 74
+  orig: 329, 74
+  offset: 2, 0
+  index: -1
+Uhlan_atk2_liuqi_0006
+  rotate: false
+  xy: 2, 453
+  size: 329, 73
+  orig: 329, 74
+  offset: 0, 0
+  index: -1
+Uhlan_atk2_liuqi_0007
+  rotate: false
+  xy: 2, 380
+  size: 328, 71
+  orig: 329, 74
+  offset: 1, 1
+  index: -1
+Uhlan_atk2_qilang_0001
+  rotate: false
+  xy: 501, 471
+  size: 101, 76
+  orig: 159, 89
+  offset: 56, 10
+  index: -1
+Uhlan_atk2_qilang_0002
+  rotate: false
+  xy: 444, 50
+  size: 95, 71
+  orig: 159, 89
+  offset: 60, 11
+  index: -1
+Uhlan_atk2_qilang_0003
+  rotate: false
+  xy: 288, 14
+  size: 86, 71
+  orig: 159, 89
+  offset: 68, 11
+  index: -1
+Uhlan_atk2_qilang_0004
+  rotate: false
+  xy: 498, 398
+  size: 99, 71
+  orig: 159, 89
+  offset: 58, 11
+  index: -1
+Uhlan_atk2_qilang_0005
+  rotate: false
+  xy: 495, 320
+  size: 98, 76
+  orig: 159, 89
+  offset: 56, 10
+  index: -1
+Uhlan_atk2_qilang_0006
+  rotate: false
+  xy: 492, 238
+  size: 108, 80
+  orig: 159, 89
+  offset: 46, 9
+  index: -1
+Uhlan_atk2_qilang_0007
+  rotate: true
+  xy: 2, 2
+  size: 96, 71
+  orig: 159, 89
+  offset: 58, 11
+  index: -1
+Uhlan_atk_0001
+  rotate: false
+  xy: 297, 87
+  size: 124, 25
+  orig: 201, 57
+  offset: 29, 13
+  index: -1
+Uhlan_atk_0002
+  rotate: false
+  xy: 75, 64
+  size: 185, 34
+  orig: 201, 57
+  offset: 0, 9
+  index: -1
+Uhlan_atk_0003
+  rotate: false
+  xy: 333, 549
+  size: 180, 53
+  orig: 201, 57
+  offset: 11, 2
+  index: -1
+Uhlan_atk_0004
+  rotate: false
+  xy: 75, 5
+  size: 161, 57
+  orig: 201, 57
+  offset: 38, 0
+  index: -1
+Uhlan_atk_0005
+  rotate: false
+  xy: 332, 327
+  size: 155, 56
+  orig: 201, 57
+  offset: 43, 1
+  index: -1
+Uhlan_atk_0006
+  rotate: false
+  xy: 297, 114
+  size: 145, 57
+  orig: 201, 57
+  offset: 55, 0
+  index: -1
+Uhlan_atk_0007
+  rotate: false
+  xy: 262, 64
+  size: 12, 6
+  orig: 201, 57
+  offset: 189, 23
+  index: -1
+b_00031
+  rotate: false
+  xy: 332, 385
+  size: 161, 53
+  orig: 173, 54
+  offset: 11, 1
+  index: -1
+b_00032
+  rotate: false
+  xy: 332, 275
+  size: 158, 50
+  orig: 173, 54
+  offset: 11, 1
+  index: -1
+b_00033
+  rotate: false
+  xy: 319, 173
+  size: 156, 48
+  orig: 173, 54
+  offset: 13, 0
+  index: -1
+b_00034
+  rotate: false
+  xy: 321, 223
+  size: 157, 50
+  orig: 173, 54
+  offset: 14, 0
+  index: -1
+b_00035
+  rotate: false
+  xy: 333, 440
+  size: 163, 52
+  orig: 173, 54
+  offset: 1, 0
+  index: -1
+b_00036
+  rotate: false
+  xy: 333, 494
+  size: 166, 53
+  orig: 173, 54
+  offset: 0, 0
+  index: -1
+bianzi
+  rotate: true
+  xy: 541, 56
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+hou_nei_1
+  rotate: false
+  xy: 460, 2
+  size: 12, 13
+  orig: 14, 15
+  offset: 1, 1
+  index: -1
+hou_nei_2
+  rotate: false
+  xy: 287, 89
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+hou_nei_3
+  rotate: true
+  xy: 599, 462
+  size: 7, 3
+  orig: 9, 5
+  offset: 1, 1
+  index: -1
+hou_wai_1
+  rotate: false
+  xy: 555, 145
+  size: 20, 21
+  orig: 22, 23
+  offset: 1, 1
+  index: -1
+hou_wai_2
+  rotate: false
+  xy: 321, 296
+  size: 9, 10
+  orig: 11, 12
+  offset: 1, 1
+  index: -1
+hou_wai_3
+  rotate: true
+  xy: 489, 375
+  size: 8, 4
+  orig: 10, 6
+  offset: 1, 1
+  index: -1
+qian_nei_1
+  rotate: false
+  xy: 459, 33
+  size: 14, 15
+  orig: 16, 17
+  offset: 1, 1
+  index: -1
+qian_nei_2
+  rotate: true
+  xy: 321, 286
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+qian_nei_3
+  rotate: false
+  xy: 444, 168
+  size: 7, 3
+  orig: 9, 5
+  offset: 1, 1
+  index: -1
+qian_wai_1
+  rotate: false
+  xy: 555, 125
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+qian_wai_2
+  rotate: false
+  xy: 480, 259
+  size: 10, 14
+  orig: 12, 16
+  offset: 1, 1
+  index: -1
+qian_wai_3
+  rotate: true
+  xy: 489, 366
+  size: 7, 4
+  orig: 9, 6
+  offset: 1, 1
+  index: -1
+qunbai1
+  rotate: false
+  xy: 577, 150
+  size: 17, 16
+  orig: 19, 18
+  offset: 1, 1
+  index: -1
+qunbai2
+  rotate: false
+  xy: 459, 17
+  size: 14, 14
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 444, 123
+  size: 109, 43
+  orig: 109, 43
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 262, 72
+  size: 23, 26
+  orig: 25, 28
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 376, 14
+  size: 64, 71
+  orig: 66, 73
+  offset: 1, 1
+  index: -1
+wuqi
+  rotate: false
+  xy: 480, 168
+  size: 116, 68
+  orig: 118, 70
+  offset: 1, 1
+  index: -1
+yangtuo_shenti
+  rotate: false
+  xy: 515, 556
+  size: 85, 46
+  orig: 86, 46
+  offset: 1, 0
+  index: -1
+yangtuo_tou
+  rotate: false
+  xy: 238, 6
+  size: 48, 56
+  orig: 50, 58
+  offset: 1, 1
+  index: -1
+youshou1
+  rotate: false
+  xy: 442, 33
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+youshou2
+  rotate: true
+  xy: 475, 35
+  size: 13, 16
+  orig: 15, 18
+  offset: 1, 1
+  index: -1
+youshou3
+  rotate: false
+  xy: 321, 275
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+youtui1
+  rotate: true
+  xy: 423, 94
+  size: 18, 19
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+youtui2
+  rotate: false
+  xy: 442, 16
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 1
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 442, 2
+  size: 16, 12
+  orig: 18, 14
+  offset: 1, 1
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 493, 35
+  size: 16, 13
+  orig: 18, 15
+  offset: 1, 1
+  index: -1
+zuoshou3
+  rotate: false
+  xy: 480, 249
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1

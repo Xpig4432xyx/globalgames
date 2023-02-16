@@ -1,0 +1,167 @@
+
+huangjinjun2.png
+size: 144,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 73
+  size: 113, 41
+  orig: 121, 50
+  offset: 8, 0
+  index: -1
+b
+  rotate: false
+  xy: 2, 220
+  size: 115, 46
+  orig: 121, 50
+  offset: 1, 0
+  index: -1
+c
+  rotate: false
+  xy: 2, 168
+  size: 111, 50
+  orig: 121, 50
+  offset: 3, 0
+  index: -1
+d
+  rotate: false
+  xy: 2, 116
+  size: 107, 50
+  orig: 121, 50
+  offset: 6, 0
+  index: -1
+e
+  rotate: true
+  xy: 74, 5
+  size: 66, 50
+  orig: 121, 50
+  offset: 7, 0
+  index: -1
+gongjian
+  rotate: false
+  xy: 2, 2
+  size: 52, 15
+  orig: 52, 15
+  offset: 0, 0
+  index: -1
+jianshi
+  rotate: true
+  xy: 115, 145
+  size: 73, 13
+  orig: 73, 13
+  offset: 0, 0
+  index: -1
+qunbai1
+  rotate: false
+  xy: 111, 126
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+qunbai2
+  rotate: false
+  xy: 132, 79
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+qunbai3
+  rotate: true
+  xy: 56, 3
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 119, 241
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 19
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 130, 191
+  size: 48, 8
+  orig: 48, 8
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 126, 60
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 117, 76
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+youshou3
+  rotate: true
+  xy: 119, 231
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: false
+  xy: 117, 95
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: false
+  xy: 130, 157
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 130, 141
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 126, 114
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+zuoshou3
+  rotate: true
+  xy: 111, 116
+  size: 8, 7
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+zuotui1
+  rotate: false
+  xy: 130, 173
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+zuotui2
+  rotate: false
+  xy: 130, 126
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+r.png
+size: 380,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+damage_Weapon_3.3.1_0
+  rotate: false
+  xy: 290, 79
+  size: 82, 81
+  orig: 188, 186
+  offset: 54, 52
+  index: -1
+damage_Weapon_3.3.1_1
+  rotate: true
+  xy: 192, 162
+  size: 175, 180
+  orig: 188, 186
+  offset: 6, 1
+  index: -1
+damage_Weapon_3.3.1_2
+  rotate: false
+  xy: 192, 339
+  size: 184, 183
+  orig: 188, 186
+  offset: 2, 1
+  index: -1
+damage_Weapon_3.3.1_3
+  rotate: false
+  xy: 2, 150
+  size: 187, 184
+  orig: 188, 186
+  offset: 1, 1
+  index: -1
+damage_Weapon_3.3.1_4
+  rotate: false
+  xy: 2, 336
+  size: 188, 186
+  orig: 188, 186
+  offset: 0, 0
+  index: -1
+damage_Weapon_3.3.1_5
+  rotate: true
+  xy: 150, 7
+  size: 141, 138
+  orig: 188, 186
+  offset: 22, 30
+  index: -1
+guangdian
+  rotate: true
+  xy: 290, 6
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 2, 2
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1

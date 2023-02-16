@@ -1,0 +1,265 @@
+
+xunyou.png
+size: 1384,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Antena
+  rotate: true
+  xy: 75, 4
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+Armor
+  rotate: false
+  xy: 662, 11
+  size: 88, 35
+  orig: 88, 35
+  offset: 0, 0
+  index: -1
+Cannon
+  rotate: true
+  xy: 1333, 72
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+Caterpillar1
+  rotate: false
+  xy: 119, 5
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+Caterpillar2
+  rotate: false
+  xy: 176, 9
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+Caterpillar3
+  rotate: false
+  xy: 233, 11
+  size: 54, 19
+  orig: 54, 19
+  offset: 0, 0
+  index: -1
+Control_Room
+  rotate: true
+  xy: 484, 43
+  size: 103, 63
+  orig: 103, 63
+  offset: 0, 0
+  index: -1
+Mahura
+  rotate: false
+  xy: 1060, 62
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 3
+  size: 143, 71
+  orig: 143, 71
+  offset: 0, 0
+  index: -1
+bu20001
+  rotate: true
+  xy: 426, 36
+  size: 110, 56
+  orig: 125, 94
+  offset: 6, 18
+  index: -1
+bu20002
+  rotate: true
+  xy: 333, 32
+  size: 114, 91
+  orig: 125, 94
+  offset: 8, 3
+  index: -1
+bu20003
+  rotate: true
+  xy: 129, 30
+  size: 116, 87
+  orig: 125, 94
+  offset: 4, 7
+  index: -1
+bu20004
+  rotate: false
+  xy: 848, 57
+  size: 89, 89
+  orig: 125, 94
+  offset: 4, 5
+  index: -1
+bu20005
+  rotate: false
+  xy: 1271, 69
+  size: 60, 77
+  orig: 125, 94
+  offset: 4, 9
+  index: -1
+bu20006
+  rotate: true
+  xy: 1233, 4
+  size: 60, 79
+  orig: 125, 94
+  offset: 4, 8
+  index: -1
+bu20007
+  rotate: false
+  xy: 1162, 66
+  size: 60, 80
+  orig: 125, 94
+  offset: 4, 7
+  index: -1
+bu20008
+  rotate: false
+  xy: 1224, 66
+  size: 45, 80
+  orig: 125, 94
+  offset: 12, 6
+  index: -1
+cover1
+  rotate: true
+  xy: 75, 26
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1
+cover2
+  rotate: false
+  xy: 585, 5
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+f0
+  rotate: false
+  xy: 1007, 2
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 717, 54
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+ty
+  rotate: false
+  xy: 426, 2
+  size: 157, 32
+  orig: 157, 32
+  offset: 0, 0
+  index: -1
+x1
+  rotate: true
+  xy: 1333, 37
+  size: 33, 34
+  orig: 133, 131
+  offset: 51, 49
+  index: -1
+x2
+  rotate: true
+  xy: 218, 32
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+x3
+  rotate: true
+  xy: 939, 58
+  size: 88, 83
+  orig: 114, 113
+  offset: 13, 17
+  index: -1
+x4
+  rotate: true
+  xy: 607, 48
+  size: 98, 56
+  orig: 114, 113
+  offset: 8, 30
+  index: -1
+x5
+  rotate: true
+  xy: 549, 46
+  size: 100, 56
+  orig: 114, 113
+  offset: 6, 28
+  index: -1
+yan0001
+  rotate: true
+  xy: 1024, 60
+  size: 86, 34
+  orig: 95, 51
+  offset: 9, 0
+  index: -1
+yan0002
+  rotate: true
+  xy: 665, 52
+  size: 94, 50
+  orig: 95, 51
+  offset: 0, 0
+  index: -1
+yan0003
+  rotate: true
+  xy: 798, 56
+  size: 90, 48
+  orig: 95, 51
+  offset: 0, 0
+  index: -1
+yan0004
+  rotate: false
+  xy: 837, 3
+  size: 83, 51
+  orig: 95, 51
+  offset: 3, 0
+  index: -1
+yan0005
+  rotate: false
+  xy: 922, 4
+  size: 83, 51
+  orig: 95, 51
+  offset: 3, 0
+  index: -1
+yan0006
+  rotate: false
+  xy: 1064, 9
+  size: 83, 51
+  orig: 95, 51
+  offset: 3, 0
+  index: -1
+yan0007
+  rotate: true
+  xy: 1109, 63
+  size: 83, 51
+  orig: 95, 51
+  offset: 3, 0
+  index: -1
+yan0008
+  rotate: false
+  xy: 752, 2
+  size: 83, 50
+  orig: 95, 51
+  offset: 3, 0
+  index: -1
+yan0009
+  rotate: false
+  xy: 1149, 11
+  size: 82, 50
+  orig: 95, 51
+  offset: 3, 0
+  index: -1
+yan0010
+  rotate: true
+  xy: 622, 2
+  size: 44, 38
+  orig: 95, 51
+  offset: 3, 0
+  index: -1

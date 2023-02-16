@@ -1,0 +1,90 @@
+
+suduxian_jineng.png
+size: 372,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 294
+  size: 134, 76
+  orig: 134, 76
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 2
+  size: 134, 76
+  orig: 134, 76
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 294, 236
+  size: 134, 74
+  orig: 134, 76
+  offset: 0, 2
+  index: -1
+12
+  rotate: true
+  xy: 294, 100
+  size: 134, 74
+  orig: 134, 76
+  offset: 0, 2
+  index: -1
+2
+  rotate: true
+  xy: 138, 236
+  size: 134, 76
+  orig: 134, 76
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 158
+  size: 134, 76
+  orig: 134, 76
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 80, 158
+  size: 134, 76
+  orig: 134, 76
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 216, 23
+  size: 134, 75
+  orig: 134, 76
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 216, 236
+  size: 134, 76
+  orig: 134, 76
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 216, 100
+  size: 134, 76
+  orig: 134, 76
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 80
+  size: 134, 76
+  orig: 134, 76
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 138, 22
+  size: 134, 76
+  orig: 134, 76
+  offset: 0, 0
+  index: -1

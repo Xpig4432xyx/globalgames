@@ -1,0 +1,41 @@
+
+ruchang.png
+size: 212,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_2
+  rotate: false
+  xy: 2, 11
+  size: 61, 147
+  orig: 61, 147
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 153, 62
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 65, 2
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+guangxian
+  rotate: false
+  xy: 65, 119
+  size: 144, 39
+  orig: 161, 44
+  offset: 8, 3
+  index: -1
+guangyun
+  rotate: false
+  xy: 65, 67
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1

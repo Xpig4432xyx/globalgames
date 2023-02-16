@@ -1,0 +1,27 @@
+
+boss_5_zidan.png
+size: 324,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f1
+  rotate: false
+  xy: 2, 2
+  size: 144, 71
+  orig: 144, 71
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 148, 2
+  size: 121, 71
+  orig: 121, 71
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 271, 24
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1

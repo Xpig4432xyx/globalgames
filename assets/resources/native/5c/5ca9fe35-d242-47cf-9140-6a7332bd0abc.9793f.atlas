@@ -1,0 +1,20 @@
+
+guangquan.png
+size: 468,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Light_1
+  rotate: false
+  xy: 2, 36
+  size: 428, 430
+  orig: 428, 430
+  offset: 0, 0
+  index: -1

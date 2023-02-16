@@ -1,0 +1,132 @@
+
+xinwujiang.png
+size: 700,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Electricity_00
+  rotate: true
+  xy: 395, 209
+  size: 69, 155
+  orig: 71, 157
+  offset: 1, 1
+  index: -1
+Electricity_01
+  rotate: false
+  xy: 161, 182
+  size: 93, 256
+  orig: 95, 258
+  offset: 1, 1
+  index: -1
+Electricity_02
+  rotate: false
+  xy: 156, 440
+  size: 132, 256
+  orig: 134, 258
+  offset: 1, 1
+  index: -1
+Electricity_03
+  rotate: false
+  xy: 2, 434
+  size: 152, 262
+  orig: 154, 264
+  offset: 1, 1
+  index: -1
+Electricity_04
+  rotate: false
+  xy: 256, 185
+  size: 137, 253
+  orig: 139, 255
+  offset: 1, 1
+  index: -1
+Electricity_06
+  rotate: false
+  xy: 2, 173
+  size: 157, 259
+  orig: 159, 261
+  offset: 1, 1
+  index: -1
+Electricity_09
+  rotate: false
+  xy: 402, 94
+  size: 131, 113
+  orig: 133, 115
+  offset: 1, 1
+  index: -1
+bg_white
+  rotate: false
+  xy: 290, 441
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+cylinder_line
+  rotate: false
+  xy: 290, 457
+  size: 206, 239
+  orig: 206, 239
+  offset: 0, 0
+  index: -1
+electricity_1
+  rotate: true
+  xy: 395, 280
+  size: 175, 101
+  orig: 177, 103
+  offset: 1, 1
+  index: -1
+electricity_2
+  rotate: true
+  xy: 157, 12
+  size: 159, 118
+  orig: 161, 120
+  offset: 1, 1
+  index: -1
+electricity_3
+  rotate: false
+  xy: 498, 584
+  size: 195, 112
+  orig: 197, 114
+  offset: 1, 1
+  index: -1
+electricity_4
+  rotate: false
+  xy: 498, 452
+  size: 194, 130
+  orig: 196, 132
+  offset: 1, 1
+  index: -1
+electricity_5
+  rotate: false
+  xy: 552, 187
+  size: 143, 152
+  orig: 145, 154
+  offset: 1, 1
+  index: -1
+electricity_6
+  rotate: true
+  xy: 2, 10
+  size: 161, 153
+  orig: 163, 155
+  offset: 1, 1
+  index: -1
+electricity_7
+  rotate: true
+  xy: 277, 2
+  size: 181, 123
+  orig: 181, 123
+  offset: 0, 0
+  index: -1
+hemisphere
+  rotate: false
+  xy: 498, 341
+  size: 186, 109
+  orig: 186, 109
+  offset: 0, 0
+  index: -1
+round
+  rotate: false
+  xy: 535, 30
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
