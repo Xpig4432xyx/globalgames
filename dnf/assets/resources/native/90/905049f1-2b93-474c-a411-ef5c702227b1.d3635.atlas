@@ -1,0 +1,251 @@
+
+TX_DaQiangShouJi.png
+size: 1573,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaoZha/baozha1
+  rotate: false
+  xy: 1300, 181
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+BaoZha/baozha10
+  rotate: true
+  xy: 1478, 90
+  size: 90, 89
+  orig: 95, 93
+  offset: 4, 0
+  index: -1
+BaoZha/baozha11
+  rotate: false
+  xy: 1481, 2
+  size: 90, 86
+  orig: 91, 96
+  offset: 1, 0
+  index: -1
+BaoZha/baozha12
+  rotate: true
+  xy: 1390, 89
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+BaoZha/baozha13
+  rotate: false
+  xy: 1391, 2
+  size: 88, 85
+  orig: 92, 85
+  offset: 3, 0
+  index: -1
+BaoZha/baozha14
+  rotate: false
+  xy: 1296, 2
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1
+BaoZha/baozha15
+  rotate: true
+  xy: 1481, 190
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+BaoZha/baozha16
+  rotate: false
+  xy: 501, 6
+  size: 85, 62
+  orig: 85, 62
+  offset: 0, 0
+  index: -1
+BaoZha/baozha2
+  rotate: false
+  xy: 1207, 180
+  size: 91, 95
+  orig: 92, 95
+  offset: 1, 0
+  index: -1
+BaoZha/baozha3
+  rotate: false
+  xy: 889, 11
+  size: 95, 99
+  orig: 96, 104
+  offset: 0, 4
+  index: -1
+BaoZha/baozha4
+  rotate: false
+  xy: 1200, 56
+  size: 94, 97
+  orig: 94, 102
+  offset: 0, 4
+  index: -1
+BaoZha/baozha5
+  rotate: false
+  xy: 1104, 55
+  size: 94, 98
+  orig: 95, 98
+  offset: 0, 0
+  index: -1
+BaoZha/baozha6
+  rotate: false
+  xy: 793, 9
+  size: 94, 101
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+BaoZha/baozha7
+  rotate: false
+  xy: 697, 7
+  size: 94, 103
+  orig: 97, 105
+  offset: 3, 0
+  index: -1
+BaoZha/baozha8
+  rotate: true
+  xy: 1388, 182
+  size: 93, 91
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+BaoZha/baozha9
+  rotate: false
+  xy: 1296, 84
+  size: 92, 94
+  orig: 92, 95
+  offset: 0, 0
+  index: -1
+DianJi/DianJi1
+  rotate: false
+  xy: 324, 65
+  size: 165, 210
+  orig: 171, 216
+  offset: 3, 3
+  index: -1
+DianJi/DianJi2
+  rotate: true
+  xy: 2, 14
+  size: 261, 167
+  orig: 268, 173
+  offset: 3, 3
+  index: -1
+DianJi/DianJi3
+  rotate: false
+  xy: 645, 112
+  size: 308, 163
+  orig: 315, 169
+  offset: 4, 3
+  index: -1
+DianJi/DianJi4
+  rotate: true
+  xy: 171, 40
+  size: 235, 151
+  orig: 242, 159
+  offset: 3, 4
+  index: -1
+DianJi/DianJi5
+  rotate: true
+  xy: 491, 70
+  size: 205, 152
+  orig: 212, 158
+  offset: 3, 3
+  index: -1
+JiaTeLinShouJi/JiaTeLinShouJi1
+  rotate: true
+  xy: 171, 3
+  size: 35, 25
+  orig: 40, 29
+  offset: 0, 4
+  index: -1
+JiaTeLinShouJi/JiaTeLinShouJi2
+  rotate: false
+  xy: 245, 9
+  size: 49, 29
+  orig: 52, 33
+  offset: 0, 4
+  index: -1
+JiaTeLinShouJi/JiaTeLinShouJi3
+  rotate: false
+  xy: 198, 4
+  size: 45, 34
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+ZhuangJi/ZhuangJi1
+  rotate: false
+  xy: 1085, 155
+  size: 120, 120
+  orig: 136, 131
+  offset: 5, 6
+  index: -1
+ZhuangJi/ZhuangJi2
+  rotate: true
+  xy: 955, 142
+  size: 133, 128
+  orig: 136, 131
+  offset: 1, 2
+  index: -1
+ZhuangJi/ZhuangJi3
+  rotate: true
+  xy: 986, 14
+  size: 126, 116
+  orig: 136, 131
+  offset: 5, 9
+  index: -1
+ZhuoShao/1
+  rotate: true
+  xy: 645, 71
+  size: 39, 50
+  orig: 40, 53
+  offset: 0, 1
+  index: -1
+ZhuoShao/2
+  rotate: true
+  xy: 1104, 9
+  size: 44, 52
+  orig: 45, 53
+  offset: 0, 1
+  index: -1
+ZhuoShao/3
+  rotate: false
+  xy: 413, 5
+  size: 45, 58
+  orig: 46, 59
+  offset: 0, 1
+  index: -1
+ZhuoShao/4
+  rotate: false
+  xy: 324, 4
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+ZhuoShao/5
+  rotate: false
+  xy: 628, 12
+  size: 39, 56
+  orig: 40, 57
+  offset: 0, 1
+  index: -1
+ZhuoShao/6
+  rotate: false
+  xy: 588, 6
+  size: 38, 62
+  orig: 39, 63
+  offset: 0, 0
+  index: -1
+ZhuoShao/7
+  rotate: false
+  xy: 370, 4
+  size: 41, 59
+  orig: 42, 61
+  offset: 0, 1
+  index: -1
+ZhuoShao/8
+  rotate: false
+  xy: 460, 5
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1

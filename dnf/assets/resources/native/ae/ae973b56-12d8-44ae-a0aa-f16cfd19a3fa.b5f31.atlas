@@ -1,0 +1,90 @@
+
+GH_snow_1.png
+size: 316,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1064-1
+  rotate: false
+  xy: 100, 4
+  size: 96, 93
+  orig: 96, 94
+  offset: 0, 1
+  index: -1
+1064-10
+  rotate: true
+  xy: 100, 99
+  size: 96, 95
+  orig: 96, 96
+  offset: 0, 1
+  index: -1
+1064-2
+  rotate: true
+  xy: 197, 197
+  size: 96, 93
+  orig: 96, 95
+  offset: 0, 2
+  index: -1
+1064-3
+  rotate: false
+  xy: 224, 452
+  size: 90, 90
+  orig: 91, 91
+  offset: 1, 1
+  index: -1
+1064-4
+  rotate: true
+  xy: 198, 7
+  size: 94, 92
+  orig: 96, 93
+  offset: 2, 1
+  index: -1
+1064-5
+  rotate: false
+  xy: 197, 103
+  size: 96, 92
+  orig: 96, 94
+  offset: 0, 0
+  index: -1
+1064-6
+  rotate: false
+  xy: 2, 197
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+1064-7
+  rotate: false
+  xy: 2, 99
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+1064-8
+  rotate: false
+  xy: 2, 2
+  size: 96, 95
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+1064-9
+  rotate: true
+  xy: 100, 197
+  size: 96, 95
+  orig: 96, 96
+  offset: 0, 1
+  index: -1
+ball
+  rotate: true
+  xy: 2, 295
+  size: 247, 220
+  orig: 299, 308
+  offset: 26, 46
+  index: -1
+xue
+  rotate: false
+  xy: 224, 365
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1

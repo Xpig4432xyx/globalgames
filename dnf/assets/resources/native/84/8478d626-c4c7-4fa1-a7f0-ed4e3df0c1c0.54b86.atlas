@@ -1,0 +1,69 @@
+
+TX_3jue_dilie.png
+size: 1634,441
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/3jue/dimian
+  rotate: false
+  xy: 2, 9
+  size: 1246, 430
+  orig: 1274, 454
+  offset: 14, 12
+  index: -1
+tx/dabaozha/buildopen_0000
+  rotate: false
+  xy: 1450, 191
+  size: 176, 79
+  orig: 180, 82
+  offset: 3, 0
+  index: -1
+tx/dabaozha/buildopen_0001
+  rotate: false
+  xy: 1450, 272
+  size: 177, 81
+  orig: 182, 84
+  offset: 4, 0
+  index: -1
+tx/dabaozha/buildopen_0002
+  rotate: false
+  xy: 1450, 355
+  size: 181, 84
+  orig: 186, 88
+  offset: 4, 0
+  index: -1
+tx/dabaozha/buildopen_0003
+  rotate: false
+  xy: 1385, 3
+  size: 181, 88
+  orig: 186, 90
+  offset: 4, 0
+  index: -1
+tx/dabaozha/buildopen_0004
+  rotate: true
+  xy: 1250, 2
+  size: 186, 133
+  orig: 190, 134
+  offset: 2, 1
+  index: -1
+tx/dabaozha/buildopen_0005
+  rotate: true
+  xy: 1352, 190
+  size: 249, 96
+  orig: 250, 96
+  offset: 0, 0
+  index: -1
+tx/dabaozha/buildopen_0006
+  rotate: true
+  xy: 1250, 190
+  size: 249, 100
+  orig: 250, 102
+  offset: 0, 0
+  index: -1
+tx/dabaozha/buildopen_0007
+  rotate: false
+  xy: 1385, 93
+  size: 247, 95
+  orig: 250, 102
+  offset: 1, 2
+  index: -1

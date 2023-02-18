@@ -1,0 +1,118 @@
+
+baozha_fantanke.png
+size: 155,615
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/Ftank1
+  rotate: false
+  xy: 90, 541
+  size: 63, 72
+  orig: 63, 78
+  offset: 0, 6
+  index: -1
+tx/Ftank10
+  rotate: false
+  xy: 78, 43
+  size: 74, 72
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+tx/Ftank11
+  rotate: false
+  xy: 2, 2
+  size: 72, 72
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+tx/Ftank12
+  rotate: false
+  xy: 83, 324
+  size: 70, 69
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+tx/Ftank13
+  rotate: true
+  xy: 83, 251
+  size: 71, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+tx/Ftank14
+  rotate: true
+  xy: 83, 395
+  size: 74, 67
+  orig: 74, 75
+  offset: 0, 8
+  index: -1
+tx/Ftank15
+  rotate: true
+  xy: 90, 471
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+tx/Ftank16
+  rotate: false
+  xy: 82, 117
+  size: 68, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+tx/Ftank2
+  rotate: false
+  xy: 82, 172
+  size: 71, 77
+  orig: 78, 78
+  offset: 0, 1
+  index: -1
+tx/Ftank3
+  rotate: true
+  xy: 2, 228
+  size: 75, 78
+  orig: 79, 78
+  offset: 1, 0
+  index: -1
+tx/Ftank4
+  rotate: true
+  xy: 2, 459
+  size: 76, 79
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+tx/Ftank5
+  rotate: true
+  xy: 2, 151
+  size: 75, 78
+  orig: 75, 84
+  offset: 0, 0
+  index: -1
+tx/Ftank6
+  rotate: true
+  xy: 2, 382
+  size: 75, 79
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+tx/Ftank7
+  rotate: true
+  xy: 2, 305
+  size: 75, 79
+  orig: 79, 80
+  offset: 4, 0
+  index: -1
+tx/Ftank8
+  rotate: true
+  xy: 2, 537
+  size: 76, 86
+  orig: 76, 88
+  offset: 0, 2
+  index: -1
+tx/Ftank9
+  rotate: false
+  xy: 2, 76
+  size: 74, 73
+  orig: 75, 74
+  offset: 0, 0
+  index: -1

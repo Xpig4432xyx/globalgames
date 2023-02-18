@@ -1,0 +1,139 @@
+
+TX_GuangZhu.png
+size: 2030,1689
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GuangZhu2
+  rotate: true
+  xy: 551, 328
+  size: 173, 521
+  orig: 178, 524
+  offset: 3, 3
+  index: -1
+GuangZhu3
+  rotate: true
+  xy: 2, 112
+  size: 187, 537
+  orig: 193, 544
+  offset: 3, 3
+  index: -1
+GuangZhu4
+  rotate: true
+  xy: 2, 301
+  size: 200, 547
+  orig: 214, 555
+  offset: 7, 3
+  index: -1
+TX_GuangZhu10
+  rotate: false
+  xy: 2, 503
+  size: 674, 591
+  orig: 674, 591
+  offset: 0, 0
+  index: -1
+TX_GuangZhu11
+  rotate: false
+  xy: 678, 1096
+  size: 674, 591
+  orig: 674, 591
+  offset: 0, 0
+  index: -1
+TX_GuangZhu12
+  rotate: false
+  xy: 678, 503
+  size: 674, 591
+  orig: 674, 591
+  offset: 0, 0
+  index: -1
+TX_GuangZhu13
+  rotate: false
+  xy: 1354, 1096
+  size: 674, 591
+  orig: 674, 591
+  offset: 0, 0
+  index: -1
+TX_GuangZhu14
+  rotate: false
+  xy: 1354, 503
+  size: 674, 591
+  orig: 674, 591
+  offset: 0, 0
+  index: -1
+TX_GuangZhu9
+  rotate: false
+  xy: 2, 1096
+  size: 674, 591
+  orig: 674, 591
+  offset: 0, 0
+  index: -1
+buildopen_0001
+  rotate: true
+  xy: 1074, 266
+  size: 235, 262
+  orig: 271, 295
+  offset: 18, 0
+  index: -1
+buildopen_0002
+  rotate: true
+  xy: 1317, 2
+  size: 242, 243
+  orig: 271, 295
+  offset: 13, 5
+  index: -1
+buildopen_0003
+  rotate: false
+  xy: 813, 85
+  size: 248, 241
+  orig: 271, 295
+  offset: 10, 4
+  index: -1
+buildopen_0004
+  rotate: false
+  xy: 1598, 256
+  size: 254, 245
+  orig: 271, 295
+  offset: 7, 4
+  index: -1
+buildopen_0005
+  rotate: false
+  xy: 1338, 246
+  size: 258, 255
+  orig: 271, 295
+  offset: 5, 6
+  index: -1
+buildopen_0006
+  rotate: false
+  xy: 551, 107
+  size: 260, 219
+  orig: 271, 295
+  offset: 8, 11
+  index: -1
+buildopen_0007
+  rotate: false
+  xy: 1063, 60
+  size: 252, 204
+  orig: 271, 295
+  offset: 12, 13
+  index: -1
+buildopen_0008
+  rotate: true
+  xy: 1854, 252
+  size: 249, 166
+  orig: 271, 295
+  offset: 10, 14
+  index: -1
+buildopen_0009
+  rotate: false
+  xy: 1800, 101
+  size: 210, 149
+  orig: 271, 295
+  offset: 45, 26
+  index: -1
+dabaozhabuildopen_0000
+  rotate: false
+  xy: 1562, 7
+  size: 236, 237
+  orig: 271, 295
+  offset: 24, 0
+  index: -1

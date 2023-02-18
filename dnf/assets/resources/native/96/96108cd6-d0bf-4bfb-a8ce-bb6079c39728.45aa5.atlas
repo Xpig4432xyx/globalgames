@@ -1,0 +1,69 @@
+
+TX_3jue_jiguang0.png
+size: 1992,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/3jue/dilie1
+  rotate: false
+  xy: 2, 395
+  size: 967, 99
+  orig: 968, 102
+  offset: 1, 1
+  index: -1
+tx/3jue/dilie1-1
+  rotate: false
+  xy: 2, 356
+  size: 876, 37
+  orig: 882, 39
+  offset: 4, 1
+  index: -1
+tx/3jue/dilie_1
+  rotate: false
+  xy: 2, 37
+  size: 506, 317
+  orig: 523, 321
+  offset: 4, 2
+  index: -1
+tx/3jue/dilie_2
+  rotate: false
+  xy: 510, 79
+  size: 501, 275
+  orig: 523, 313
+  offset: 5, 3
+  index: -1
+tx/3jue/dilie_3
+  rotate: false
+  xy: 1013, 226
+  size: 500, 268
+  orig: 523, 313
+  offset: 6, 4
+  index: -1
+tx/3jue/dilie_4
+  rotate: false
+  xy: 1515, 237
+  size: 475, 257
+  orig: 499, 297
+  offset: 6, 4
+  index: -1
+tx/3jue/dilie_5
+  rotate: false
+  xy: 1515, 3
+  size: 426, 232
+  orig: 489, 280
+  offset: 9, 7
+  index: -1
+tx/3jue/line3
+  rotate: false
+  xy: 2, 3
+  size: 397, 32
+  orig: 397, 32
+  offset: 0, 0
+  index: -1
+tx/3jue/tx1
+  rotate: false
+  xy: 1013, 2
+  size: 335, 222
+  orig: 341, 226
+  offset: 2, 1
+  index: -1

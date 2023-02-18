@@ -1,0 +1,265 @@
+
+TX_3jue_baozha.png
+size: 1918,1662
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/3jue/01
+  rotate: false
+  xy: 461, 497
+  size: 424, 198
+  orig: 960, 432
+  offset: 212, 58
+  index: -1
+tx/3jue/02
+  rotate: true
+  xy: 1740, 795
+  size: 271, 150
+  orig: 960, 432
+  offset: 178, 18
+  index: -1
+tx/3jue/03
+  rotate: false
+  xy: 1461, 553
+  size: 294, 205
+  orig: 960, 432
+  offset: 155, 15
+  index: -1
+tx/3jue/04
+  rotate: true
+  xy: 1246, 711
+  size: 373, 213
+  orig: 960, 432
+  offset: 70, 57
+  index: -1
+tx/3jue/05
+  rotate: false
+  xy: 1165, 1387
+  size: 479, 273
+  orig: 960, 432
+  offset: 15, 44
+  index: -1
+tx/3jue/06
+  rotate: false
+  xy: 2, 1345
+  size: 586, 315
+  orig: 960, 432
+  offset: 0, 41
+  index: -1
+tx/3jue/07
+  rotate: false
+  xy: 590, 1384
+  size: 573, 276
+  orig: 960, 432
+  offset: 18, 58
+  index: -1
+tx/3jue/08
+  rotate: true
+  xy: 1646, 1344
+  size: 316, 264
+  orig: 960, 432
+  offset: 146, 55
+  index: -1
+tx/3jue/09
+  rotate: true
+  xy: 919, 705
+  size: 379, 325
+  orig: 960, 432
+  offset: 108, 50
+  index: -1
+tx/3jue/10
+  rotate: false
+  xy: 2, 958
+  size: 486, 385
+  orig: 960, 432
+  offset: 88, 30
+  index: -1
+tx/3jue/11
+  rotate: false
+  xy: 490, 697
+  size: 427, 387
+  orig: 960, 432
+  offset: 86, 44
+  index: -1
+tx/3jue/12
+  rotate: false
+  xy: 2, 564
+  size: 457, 392
+  orig: 960, 432
+  offset: 84, 40
+  index: -1
+tx/3jue/13
+  rotate: false
+  xy: 2, 182
+  size: 454, 380
+  orig: 960, 432
+  offset: 84, 50
+  index: -1
+tx/3jue/14
+  rotate: false
+  xy: 458, 179
+  size: 421, 316
+  orig: 960, 432
+  offset: 86, 116
+  index: -1
+tx/3jue/15
+  rotate: false
+  xy: 590, 1086
+  size: 453, 296
+  orig: 960, 432
+  offset: 85, 134
+  index: -1
+tx/3jue/paopao (1)
+  rotate: false
+  xy: 1710, 11
+  size: 138, 129
+  orig: 268, 246
+  offset: 94, 53
+  index: -1
+tx/3jue/paopao (10)
+  rotate: false
+  xy: 1757, 575
+  size: 159, 218
+  orig: 268, 246
+  offset: 67, 17
+  index: -1
+tx/3jue/paopao (11)
+  rotate: false
+  xy: 2, 2
+  size: 254, 178
+  orig: 344, 320
+  offset: 44, 23
+  index: -1
+tx/3jue/paopao (12)
+  rotate: false
+  xy: 1084, 14
+  size: 163, 149
+  orig: 344, 320
+  offset: 37, 56
+  index: -1
+tx/3jue/paopao (13)
+  rotate: false
+  xy: 258, 7
+  size: 189, 173
+  orig: 344, 320
+  offset: 37, 48
+  index: -1
+tx/3jue/paopao (14)
+  rotate: false
+  xy: 1710, 142
+  size: 188, 196
+  orig: 344, 320
+  offset: 37, 42
+  index: -1
+tx/3jue/paopao (15)
+  rotate: false
+  xy: 1227, 459
+  size: 212, 244
+  orig: 344, 320
+  offset: 37, 22
+  index: -1
+tx/3jue/paopao (16)
+  rotate: true
+  xy: 881, 179
+  size: 248, 301
+  orig: 344, 320
+  offset: 36, 3
+  index: -1
+tx/3jue/paopao (17)
+  rotate: true
+  xy: 1595, 1068
+  size: 274, 310
+  orig: 344, 320
+  offset: 37, 10
+  index: -1
+tx/3jue/paopao (18)
+  rotate: true
+  xy: 919, 429
+  size: 274, 306
+  orig: 344, 320
+  offset: 42, 14
+  index: -1
+tx/3jue/paopao (19)
+  rotate: true
+  xy: 1283, 1103
+  size: 282, 310
+  orig: 344, 320
+  offset: 44, 10
+  index: -1
+tx/3jue/paopao (2)
+  rotate: false
+  xy: 1249, 16
+  size: 156, 147
+  orig: 268, 246
+  offset: 86, 47
+  index: -1
+tx/3jue/paopao (20)
+  rotate: false
+  xy: 1461, 760
+  size: 277, 306
+  orig: 344, 320
+  offset: 56, 14
+  index: -1
+tx/3jue/paopao (21)
+  rotate: false
+  xy: 1184, 165
+  size: 289, 262
+  orig: 344, 320
+  offset: 55, 12
+  index: -1
+tx/3jue/paopao (22)
+  rotate: false
+  xy: 458, 561
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tx/3jue/paopao (3)
+  rotate: false
+  xy: 906, 4
+  size: 176, 173
+  orig: 268, 246
+  offset: 68, 30
+  index: -1
+tx/3jue/paopao (4)
+  rotate: true
+  xy: 1704, 340
+  size: 211, 195
+  orig: 268, 246
+  offset: 38, 37
+  index: -1
+tx/3jue/paopao (5)
+  rotate: false
+  xy: 1475, 85
+  size: 233, 227
+  orig: 268, 246
+  offset: 21, 12
+  index: -1
+tx/3jue/paopao (6)
+  rotate: true
+  xy: 1045, 1086
+  size: 256, 236
+  orig: 268, 246
+  offset: 6, 5
+  index: -1
+tx/3jue/paopao (7)
+  rotate: false
+  xy: 1475, 314
+  size: 227, 237
+  orig: 268, 246
+  offset: 18, 4
+  index: -1
+tx/3jue/paopao (8)
+  rotate: true
+  xy: 449, 3
+  size: 174, 229
+  orig: 268, 246
+  offset: 66, 11
+  index: -1
+tx/3jue/paopao (9)
+  rotate: true
+  xy: 680, 8
+  size: 169, 224
+  orig: 268, 246
+  offset: 68, 14
+  index: -1

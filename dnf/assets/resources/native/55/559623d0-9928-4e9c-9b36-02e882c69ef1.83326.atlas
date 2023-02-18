@@ -1,0 +1,20 @@
+
+TX_DaoDan1.png
+size: 875,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/DaoDanZhunXin
+  rotate: false
+  xy: 452, 2
+  size: 421, 235
+  orig: 425, 237
+  offset: 2, 1
+  index: -1
+tx/DaoDanZhunXin2
+  rotate: false
+  xy: 2, 2
+  size: 448, 235
+  orig: 452, 237
+  offset: 2, 1
+  index: -1

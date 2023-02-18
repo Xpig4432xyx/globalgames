@@ -1,0 +1,62 @@
+
+TX_XuanWo.png
+size: 706,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XuanWo01
+  rotate: false
+  xy: 362, 4
+  size: 86, 88
+  orig: 92, 94
+  offset: 3, 3
+  index: -1
+XuanWo02
+  rotate: false
+  xy: 538, 2
+  size: 82, 90
+  orig: 88, 96
+  offset: 3, 3
+  index: -1
+XuanWo03
+  rotate: false
+  xy: 2, 2
+  size: 88, 90
+  orig: 94, 96
+  offset: 3, 3
+  index: -1
+XuanWo04
+  rotate: true
+  xy: 92, 2
+  size: 90, 88
+  orig: 96, 94
+  offset: 3, 3
+  index: -1
+XuanWo05
+  rotate: true
+  xy: 450, 4
+  size: 88, 86
+  orig: 94, 92
+  offset: 3, 3
+  index: -1
+XuanWo06
+  rotate: true
+  xy: 622, 2
+  size: 90, 82
+  orig: 96, 88
+  offset: 3, 3
+  index: -1
+XuanWo07
+  rotate: true
+  xy: 182, 2
+  size: 90, 88
+  orig: 96, 94
+  offset: 3, 3
+  index: -1
+XuanWo08
+  rotate: false
+  xy: 272, 2
+  size: 88, 90
+  orig: 94, 96
+  offset: 3, 3
+  index: -1

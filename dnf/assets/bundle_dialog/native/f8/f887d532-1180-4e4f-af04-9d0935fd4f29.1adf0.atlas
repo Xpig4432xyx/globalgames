@@ -1,0 +1,132 @@
+
+hongyan.png
+size: 1513,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PF_chushi/jiao_youjiao
+  rotate: false
+  xy: 1361, 104
+  size: 113, 210
+  orig: 145, 214
+  offset: 32, 0
+  index: -1
+PF_chushi/jiao_zuo
+  rotate: true
+  xy: 862, 45
+  size: 100, 208
+  orig: 100, 208
+  offset: 0, 0
+  index: -1
+PF_chushi/lian
+  rotate: true
+  xy: 334, 92
+  size: 222, 240
+  orig: 231, 240
+  offset: 0, 0
+  index: -1
+PF_chushi/shenti
+  rotate: true
+  xy: 862, 147
+  size: 167, 221
+  orig: 167, 221
+  offset: 0, 0
+  index: -1
+PF_chushi/toufa
+  rotate: false
+  xy: 2, 2
+  size: 330, 312
+  orig: 330, 312
+  offset: 0, 0
+  index: -1
+PF_chushi/toufahou
+  rotate: false
+  xy: 1072, 141
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+PF_chushi/wuguan
+  rotate: false
+  xy: 576, 7
+  size: 113, 105
+  orig: 113, 105
+  offset: 0, 0
+  index: -1
+PF_chushi/wuguan_hit
+  rotate: false
+  xy: 1072, 12
+  size: 159, 100
+  orig: 177, 104
+  offset: 0, 4
+  index: -1
+PF_chushi/wuguan_siwang
+  rotate: false
+  xy: 1360, 3
+  size: 151, 99
+  orig: 154, 116
+  offset: 0, 17
+  index: -1
+PF_chushi/yaodai
+  rotate: false
+  xy: 1085, 183
+  size: 274, 131
+  orig: 274, 131
+  offset: 0, 0
+  index: -1
+PF_chushi/yaodai_hou
+  rotate: false
+  xy: 576, 114
+  size: 284, 200
+  orig: 284, 200
+  offset: 0, 0
+  index: -1
+PF_chushi/you_gebo_shang
+  rotate: true
+  xy: 454, 33
+  size: 57, 113
+  orig: 57, 113
+  offset: 0, 0
+  index: -1
+PF_chushi/you_gebo_xia
+  rotate: true
+  xy: 1233, 40
+  size: 72, 125
+  orig: 72, 125
+  offset: 0, 0
+  index: -1
+PF_chushi/zuo_gebo_shang
+  rotate: false
+  xy: 795, 2
+  size: 63, 110
+  orig: 63, 110
+  offset: 0, 0
+  index: -1
+PF_chushi/zuo_gebo_xia
+  rotate: true
+  xy: 334, 26
+  size: 64, 118
+  orig: 64, 118
+  offset: 0, 0
+  index: -1
+PF_luke/shouhuan
+  rotate: false
+  xy: 691, 10
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+wuqi_hongyan2
+  rotate: true
+  xy: 1233, 12
+  size: 26, 119
+  orig: 27, 119
+  offset: 1, 0
+  index: -1
+xuedao
+  rotate: true
+  xy: 1085, 114
+  size: 67, 251
+  orig: 81, 253
+  offset: 5, 0
+  index: -1

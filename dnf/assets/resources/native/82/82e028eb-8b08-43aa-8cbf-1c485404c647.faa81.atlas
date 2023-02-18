@@ -1,0 +1,76 @@
+
+BOSS_LaoHu.png
+size: 1822,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houdatui
+  rotate: true
+  xy: 412, 2
+  size: 286, 292
+  orig: 287, 294
+  offset: 1, 1
+  index: -1
+houhoudatui
+  rotate: false
+  xy: 1561, 6
+  size: 177, 200
+  orig: 179, 202
+  offset: 1, 1
+  index: -1
+houhouxiaotui
+  rotate: true
+  xy: 976, 4
+  size: 284, 183
+  orig: 286, 187
+  offset: 0, 3
+  index: -1
+houxiaotui
+  rotate: true
+  xy: 1337, 10
+  size: 196, 222
+  orig: 198, 226
+  offset: 1, 2
+  index: -1
+qiandatui
+  rotate: true
+  xy: 1053, 329
+  size: 309, 300
+  orig: 310, 303
+  offset: 0, 0
+  index: -1
+qianxiaotui
+  rotate: true
+  xy: 1161, 77
+  size: 250, 174
+  orig: 253, 177
+  offset: 1, 2
+  index: -1
+qianyouxiaotui
+  rotate: false
+  xy: 706, 12
+  size: 268, 276
+  orig: 268, 278
+  offset: 0, 2
+  index: -1
+qugan
+  rotate: true
+  xy: 2, 88
+  size: 550, 408
+  orig: 552, 411
+  offset: 1, 2
+  index: -1
+tou
+  rotate: true
+  xy: 1355, 208
+  size: 430, 465
+  orig: 432, 469
+  offset: 0, 1
+  index: -1
+weiba
+  rotate: false
+  xy: 412, 290
+  size: 639, 348
+  orig: 641, 351
+  offset: 1, 1
+  index: -1
