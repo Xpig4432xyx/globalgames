@@ -1,0 +1,132 @@
+
+TX_3jue_jiguang2.png
+size: 1850,661
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/3jue/guangquanzhedang (1)
+  rotate: false
+  xy: 1717, 48
+  size: 131, 132
+  orig: 175, 178
+  offset: 20, 22
+  index: -1
+tx/3jue/guangquanzhedang (2)
+  rotate: true
+  xy: 1545, 182
+  size: 167, 177
+  orig: 175, 178
+  offset: 0, 0
+  index: -1
+tx/3jue/guangquanzhedang (3)
+  rotate: false
+  xy: 1538, 351
+  size: 175, 178
+  orig: 175, 178
+  offset: 0, 0
+  index: -1
+tx/3jue/guangquanzhedang (4)
+  rotate: false
+  xy: 1540, 2
+  size: 175, 178
+  orig: 175, 178
+  offset: 0, 0
+  index: -1
+tx/3jue/guangquanzhedang (6)
+  rotate: false
+  xy: 1724, 230
+  size: 119, 132
+  orig: 175, 178
+  offset: 27, 23
+  index: -1
+tx/3jue/jiguang (1)
+  rotate: false
+  xy: 767, 16
+  size: 761, 73
+  orig: 774, 171
+  offset: 7, 41
+  index: -1
+tx/3jue/jiguang (10)
+  rotate: false
+  xy: 769, 256
+  size: 774, 93
+  orig: 774, 171
+  offset: 0, 30
+  index: -1
+tx/3jue/jiguang (11)
+  rotate: false
+  xy: 767, 172
+  size: 771, 82
+  orig: 774, 171
+  offset: 3, 37
+  index: -1
+tx/3jue/jiguang (12)
+  rotate: false
+  xy: 767, 91
+  size: 767, 79
+  orig: 774, 171
+  offset: 5, 37
+  index: -1
+tx/3jue/jiguang (2)
+  rotate: true
+  xy: 1715, 364
+  size: 165, 79
+  orig: 774, 171
+  offset: 585, 36
+  index: -1
+tx/3jue/jiguang (3)
+  rotate: false
+  xy: 1537, 531
+  size: 230, 128
+  orig: 774, 171
+  offset: 520, 11
+  index: -1
+tx/3jue/jiguang (4)
+  rotate: false
+  xy: 2, 41
+  size: 763, 142
+  orig: 774, 171
+  offset: 3, 4
+  index: -1
+tx/3jue/jiguang (5)
+  rotate: false
+  xy: 2, 501
+  size: 765, 158
+  orig: 774, 171
+  offset: 3, 0
+  index: -1
+tx/3jue/jiguang (6)
+  rotate: false
+  xy: 2, 185
+  size: 762, 154
+  orig: 774, 171
+  offset: 8, 0
+  index: -1
+tx/3jue/jiguang (7)
+  rotate: false
+  xy: 2, 341
+  size: 765, 158
+  orig: 774, 171
+  offset: 6, 0
+  index: -1
+tx/3jue/jiguang (8)
+  rotate: false
+  xy: 769, 505
+  size: 766, 154
+  orig: 774, 171
+  offset: 7, 0
+  index: -1
+tx/3jue/jiguang (9)
+  rotate: false
+  xy: 769, 351
+  size: 767, 152
+  orig: 774, 171
+  offset: 7, 1
+  index: -1
+tx/3jue/line3
+  rotate: false
+  xy: 2, 7
+  size: 397, 32
+  orig: 397, 32
+  offset: 0, 0
+  index: -1

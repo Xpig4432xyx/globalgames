@@ -1,0 +1,137 @@
+
+daqiangdonghua.png
+size: 2035,1737
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dognhua_a_1
+  rotate: true
+  xy: 754, 628
+  size: 526, 750
+  orig: 526, 750
+  offset: 0, 0
+  index: -1
+dognhua_a_2
+  rotate: true
+  xy: 2, 142
+  size: 577, 750
+  orig: 577, 750
+  offset: 0, 0
+  index: -1
+dognhua_a_3
+  rotate: true
+  xy: 759, 1482
+  size: 253, 357
+  orig: 253, 357
+  offset: 0, 0
+  index: -1
+dognhua_a_4
+  rotate: true
+  xy: 2, 1202
+  size: 280, 463
+  orig: 281, 463
+  offset: 1, 0
+  index: -1
+dognhua_a_5
+  rotate: true
+  xy: 881, 1156
+  size: 309, 750
+  orig: 309, 750
+  offset: 0, 0
+  index: -1
+donghua_b_1
+  rotate: true
+  xy: 2, 721
+  size: 469, 750
+  orig: 474, 750
+  offset: 0, 0
+  index: -1
+donghua_b_2
+  rotate: true
+  xy: 2, 1486
+  size: 249, 419
+  orig: 249, 419
+  offset: 0, 0
+  index: -1
+donghua_b_3
+  rotate: true
+  xy: 423, 1484
+  size: 251, 334
+  orig: 251, 334
+  offset: 0, 0
+  index: -1
+donghua_b_4
+  rotate: true
+  xy: 1118, 1467
+  size: 268, 750
+  orig: 268, 750
+  offset: 0, 0
+  index: -1
+donghua_c_2
+  rotate: true
+  xy: 754, 2
+  size: 624, 750
+  orig: 624, 750
+  offset: 0, 0
+  index: -1
+donghua_c_3
+  rotate: false
+  xy: 1633, 974
+  size: 400, 491
+  orig: 400, 491
+  offset: 0, 0
+  index: -1
+donghua_c_4
+  rotate: false
+  xy: 467, 1192
+  size: 412, 288
+  orig: 412, 288
+  offset: 0, 0
+  index: -1
+
+daqiangdonghua2.png
+size: 1628,1422
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2
+  size: 1624, 750
+  orig: 1624, 750
+  offset: 0, 0
+  index: -1
+donghua_b_5
+  rotate: true
+  xy: 754, 754
+  size: 666, 750
+  orig: 666, 750
+  offset: 0, 0
+  index: -1
+donghua_c_1
+  rotate: true
+  xy: 2, 783
+  size: 637, 750
+  orig: 637, 750
+  offset: 0, 0
+  index: -1
+
+daqiangdonghua3.png
+size: 1697,754
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+donghua_d_1
+  rotate: false
+  xy: 2, 2
+  size: 881, 750
+  orig: 881, 750
+  offset: 0, 0
+  index: -1
+donghua_d_2
+  rotate: false
+  xy: 885, 2
+  size: 810, 750
+  orig: 810, 750
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+pet01.png
+size: 166,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: false
+  xy: 73, 12
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: true
+  xy: 104, 185
+  size: 67, 60
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+kouqiang
+  rotate: false
+  xy: 104, 152
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 63
+  size: 82, 128
+  orig: 82, 128
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 2, 147
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 2, 2
+  size: 59, 69
+  orig: 61, 72
+  offset: 0, 3
+  index: -1
+youjiao
+  rotate: true
+  xy: 132, 89
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 124, 26
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+youtui1
+  rotate: false
+  xy: 132, 57
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+youtui2
+  rotate: true
+  xy: 132, 121
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

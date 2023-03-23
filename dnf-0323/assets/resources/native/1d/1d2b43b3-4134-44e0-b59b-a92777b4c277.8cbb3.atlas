@@ -1,0 +1,20 @@
+
+TX_kick.png
+size: 463,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/kick1
+  rotate: false
+  xy: 2, 2
+  size: 232, 276
+  orig: 232, 276
+  offset: 0, 0
+  index: -1
+tx/kick2
+  rotate: false
+  xy: 236, 2
+  size: 225, 276
+  orig: 225, 276
+  offset: 0, 0
+  index: -1

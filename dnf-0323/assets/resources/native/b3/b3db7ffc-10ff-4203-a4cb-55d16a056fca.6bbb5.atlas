@@ -1,0 +1,48 @@
+
+pet02.png
+size: 288,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tep02/shangshen
+  rotate: false
+  xy: 176, 102
+  size: 110, 146
+  orig: 126, 197
+  offset: 9, 22
+  index: -1
+tep02/tou
+  rotate: true
+  xy: 2, 110
+  size: 138, 172
+  orig: 138, 172
+  offset: 0, 0
+  index: -1
+tep02/weiba
+  rotate: false
+  xy: 165, 42
+  size: 92, 58
+  orig: 105, 75
+  offset: 4, 3
+  index: -1
+tep02/xiaba
+  rotate: false
+  xy: 2, 2
+  size: 161, 106
+  orig: 202, 139
+  offset: 15, 5
+  index: -1
+tep02/youchi
+  rotate: true
+  xy: 259, 27
+  size: 73, 25
+  orig: 76, 30
+  offset: 1, 5
+  index: -1
+tep02/zuochi
+  rotate: false
+  xy: 165, 16
+  size: 72, 24
+  orig: 74, 28
+  offset: 0, 4
+  index: -1

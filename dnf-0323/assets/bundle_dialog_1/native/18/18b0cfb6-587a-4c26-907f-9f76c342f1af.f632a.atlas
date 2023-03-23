@@ -1,0 +1,27 @@
+
+ZhuUi_ShiZi.png
+size: 367,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye1
+  rotate: true
+  xy: 346, 246
+  size: 62, 19
+  orig: 65, 19
+  offset: 2, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 346, 179
+  size: 65, 14
+  orig: 65, 19
+  offset: 0, 2
+  index: -1
+shizi
+  rotate: true
+  xy: 2, 2
+  size: 306, 342
+  orig: 306, 342
+  offset: 0, 0
+  index: -1

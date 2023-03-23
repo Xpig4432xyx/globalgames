@@ -1,0 +1,153 @@
+
+JN_JiGuangPao.png
+size: 2017,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/juqi1
+  rotate: true
+  xy: 1843, 60
+  size: 184, 172
+  orig: 184, 172
+  offset: 0, 0
+  index: -1
+tx/juqi2
+  rotate: false
+  xy: 1241, 2
+  size: 180, 168
+  orig: 184, 172
+  offset: 1, 2
+  index: -1
+tx/juqi3
+  rotate: false
+  xy: 1423, 12
+  size: 171, 158
+  orig: 184, 172
+  offset: 5, 7
+  index: -1
+tx/juqi4
+  rotate: false
+  xy: 1596, 26
+  size: 159, 144
+  orig: 184, 172
+  offset: 9, 15
+  index: -1
+tx/juqi5
+  rotate: false
+  xy: 1852, 388
+  size: 118, 90
+  orig: 184, 172
+  offset: 17, 41
+  index: -1
+tx/juqi6
+  rotate: false
+  xy: 1757, 116
+  size: 63, 54
+  orig: 184, 172
+  offset: 56, 65
+  index: -1
+tx/juqi7
+  rotate: false
+  xy: 1757, 64
+  size: 55, 50
+  orig: 184, 172
+  offset: 65, 67
+  index: -1
+tx/juqi8
+  rotate: true
+  xy: 1972, 426
+  size: 52, 42
+  orig: 184, 172
+  offset: 66, 70
+  index: -1
+tx/ziDan_jiguang1
+  rotate: false
+  xy: 2, 312
+  size: 639, 166
+  orig: 649, 193
+  offset: 0, 16
+  index: -1
+tx/ziDan_jiguang10
+  rotate: false
+  xy: 643, 296
+  size: 603, 72
+  orig: 604, 73
+  offset: 0, 1
+  index: -1
+tx/ziDan_jiguang11
+  rotate: false
+  xy: 1241, 172
+  size: 600, 72
+  orig: 601, 73
+  offset: 0, 1
+  index: -1
+tx/ziDan_jiguang12
+  rotate: false
+  xy: 606, 64
+  size: 606, 72
+  orig: 608, 74
+  offset: 0, 2
+  index: -1
+tx/ziDan_jiguang13
+  rotate: false
+  xy: 606, 2
+  size: 591, 60
+  orig: 597, 62
+  offset: 0, 2
+  index: -1
+tx/ziDan_jiguang2
+  rotate: false
+  xy: 2, 144
+  size: 634, 166
+  orig: 649, 193
+  offset: 0, 16
+  index: -1
+tx/ziDan_jiguang3
+  rotate: false
+  xy: 2, 43
+  size: 602, 99
+  orig: 605, 118
+  offset: 0, 10
+  index: -1
+tx/ziDan_jiguang4
+  rotate: false
+  xy: 643, 370
+  size: 602, 108
+  orig: 605, 118
+  offset: 0, 6
+  index: -1
+tx/ziDan_jiguang5
+  rotate: false
+  xy: 638, 212
+  size: 601, 82
+  orig: 602, 88
+  offset: 0, 6
+  index: -1
+tx/ziDan_jiguang6
+  rotate: false
+  xy: 638, 138
+  size: 601, 72
+  orig: 602, 73
+  offset: 0, 1
+  index: -1
+tx/ziDan_jiguang7
+  rotate: false
+  xy: 1248, 320
+  size: 601, 74
+  orig: 602, 105
+  offset: 0, 17
+  index: -1
+tx/ziDan_jiguang8
+  rotate: false
+  xy: 1248, 246
+  size: 601, 72
+  orig: 602, 93
+  offset: 0, 17
+  index: -1
+tx/ziDan_jiguang9
+  rotate: false
+  xy: 1247, 396
+  size: 603, 82
+  orig: 604, 88
+  offset: 0, 6
+  index: -1

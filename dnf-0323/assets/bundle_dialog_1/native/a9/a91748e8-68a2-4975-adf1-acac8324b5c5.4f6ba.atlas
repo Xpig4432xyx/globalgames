@@ -1,0 +1,69 @@
+
+DoorGuang.png
+size: 1544,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DoorGuang1
+  rotate: true
+  xy: 710, 2
+  size: 152, 173
+  orig: 152, 175
+  offset: 0, 1
+  index: -1
+DoorGuang2
+  rotate: true
+  xy: 2, 2
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+DoorGuang3
+  rotate: true
+  xy: 885, 2
+  size: 152, 168
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+DoorGuang4
+  rotate: true
+  xy: 179, 2
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+DoorGuang5
+  rotate: true
+  xy: 1384, 2
+  size: 152, 158
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+DoorGuang6
+  rotate: true
+  xy: 1055, 2
+  size: 152, 163
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+DoorGuang7
+  rotate: true
+  xy: 1220, 2
+  size: 152, 162
+  orig: 152, 175
+  offset: 0, 1
+  index: -1
+DoorGuang8
+  rotate: true
+  xy: 356, 2
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1
+DoorGuang9
+  rotate: true
+  xy: 533, 2
+  size: 152, 175
+  orig: 152, 175
+  offset: 0, 0
+  index: -1

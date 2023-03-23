@@ -1,0 +1,83 @@
+
+TX_LiuDanPao.png
+size: 1013,1027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/gunHit1
+  rotate: false
+  xy: 366, 382
+  size: 482, 251
+  orig: 489, 255
+  offset: 3, 3
+  index: -1
+tx/gunHit2
+  rotate: false
+  xy: 2, 27
+  size: 421, 353
+  orig: 425, 358
+  offset: 3, 2
+  index: -1
+tx/gunHit3
+  rotate: true
+  xy: 425, 2
+  size: 378, 586
+  orig: 381, 594
+  offset: 2, 3
+  index: -1
+tx/gunHit4
+  rotate: false
+  xy: 2, 450
+  size: 362, 184
+  orig: 371, 211
+  offset: 2, 3
+  index: -1
+tx/ziDan_LiuDan1
+  rotate: false
+  xy: 427, 635
+  size: 430, 134
+  orig: 431, 136
+  offset: 0, 0
+  index: -1
+tx/ziDan_LiuDan2
+  rotate: false
+  xy: 406, 771
+  size: 429, 133
+  orig: 432, 144
+  offset: 0, 11
+  index: -1
+tx/ziDan_LiuDan3
+  rotate: true
+  xy: 859, 591
+  size: 434, 137
+  orig: 438, 138
+  offset: 0, 0
+  index: -1
+tx/ziDan_LiuDan4
+  rotate: false
+  xy: 2, 636
+  size: 423, 133
+  orig: 423, 137
+  offset: 0, 2
+  index: -1
+tx/ziDan_LiuDan5
+  rotate: false
+  xy: 2, 780
+  size: 402, 128
+  orig: 403, 130
+  offset: 0, 1
+  index: -1
+tx/ziDan_LiuDan6
+  rotate: false
+  xy: 2, 910
+  size: 418, 115
+  orig: 418, 127
+  offset: 0, 6
+  index: -1
+tx/ziDan_LiuDan7
+  rotate: false
+  xy: 422, 906
+  size: 429, 119
+  orig: 430, 121
+  offset: 0, 1
+  index: -1

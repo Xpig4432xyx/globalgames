@@ -1,0 +1,27 @@
+
+TX_FanTankPao.png
+size: 1757,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/ziDan_Ftank1
+  rotate: false
+  xy: 1275, 15
+  size: 480, 215
+  orig: 487, 216
+  offset: 0, 0
+  index: -1
+tx/ziDan_Ftank2
+  rotate: false
+  xy: 642, 33
+  size: 631, 197
+  orig: 634, 201
+  offset: 1, 2
+  index: -1
+tx/ziDan_Ftank3
+  rotate: false
+  xy: 2, 2
+  size: 638, 228
+  orig: 645, 241
+  offset: 2, 6
+  index: -1
